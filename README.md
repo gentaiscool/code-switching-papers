@@ -1,4 +1,4 @@
-# Computational Approaches to Linguistic Code-switching Research
+# Code-switching Research Papers
 This is the list of important papers on computational linguistic approaches to code-switching research. 
 The list will be updated over the time.
 
@@ -14,7 +14,7 @@ The list will be updated over the time.
 - <b>Adel, et al. (2013)</b> <i>Combination of Recurrent Neural Networks and Factored Language
 Models for Code-Switching Language Modeling</i>. ACL 2013 <a href="http://www.aclweb.org/anthology/P13-2037">[Paper]</a>
 - <b>Adel, et al. (2013)</b> <i>Recurrent neural network language modeling for code switching conversational speech</i>. ICASSP 2013 <a href="https://ieeexplore.ieee.org/document/6639306/">[Paper]</a>
-- <b>Ngoc Thang Vu, et al. (2012)</b> <i>A First Speech Recognition System for Mandarin-English Code-Switch Conversational Speech</i>. ICASSP 2012 <a href="https://www.csl.uni-bremen.de/cms/images/documents/publications/ICASSP2012-Vu_CodeSwitch.pdf">[Paper]</a>
+- <b>Vu, et al. (2012)</b> <i>A First Speech Recognition System for Mandarin-English Code-Switch Conversational Speech</i>. ICASSP 2012 <a href="https://www.csl.uni-bremen.de/cms/images/documents/publications/ICASSP2012-Vu_CodeSwitch.pdf">[Paper]</a>
 - <b>Ying Li and Pascale Fung. (2012)</b> <i>Code-switch Language Model with Inversion Constraints for Mixed Language Speech Recognition</i>. COLING 2012 <a href="http://www.aclweb.org/anthology/C12-1102">[Paper]</a>
 - <b>Li, et al. (2011)</b> <i>Asymmetric acoustic modeling of mixed language speech</i>. ICASSP 2011 <a href="https://pdfs.semanticscholar.org/1b57/5dbb14901b0cfa668f21a3b188beee4c9582.pdf">[Paper]</a>
 
