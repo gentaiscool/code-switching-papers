@@ -25,6 +25,9 @@ Models for Code-Switching Language Modeling</i>. ACL 2013 <a href="http://www.ac
 - <b>Winata, et al. (2018)</b> <i>Bilingual Character Representation for Efficiently Addressing Out-of-Vocabulary Words in Code-Switching Named Entity Recognition</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL 2018 <a href="https://arxiv.org/abs/1805.12061">[Paper]</a>
 - <b>Aguilar, et al. (2017)</b> <i>A Multi-task Approach for Named Entity Recognition in Social Media Data</i>. 3rd Workshop on Noisy User-generated Text, EMNLP 2017 <a href="http://www.aclweb.org/anthology/W17-4419">[Paper]</a>
 
+## Linguistics
+- <b>Belazi, et al. (1994)</b> <i>Code switching and X-bar theory: The functional head constraint</i>. Linguistic inquiry Vol 25 No.2 Spring 1994 <a href="https://www.jstor.org/stable/4178859">[Paper]</a>
+
 ## Corpus
 ### Mandarin-English
 - <b>Li, et al. (2012)</b> <i>A Mandarin-English Code-Switching Corpus</i>. LREC 2012 <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/964_Paper.pdf">[Paper]</a>
