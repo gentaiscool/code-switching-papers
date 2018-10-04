@@ -7,7 +7,7 @@ The list will be updated over the time.
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech 2008 <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
 ## Language Modeling and Speech Recognition
-- <b>Winata, et al. (2018)</b> <i>Code-Switching Language Modeling using Syntax-Aware Multi-Task Learning</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL 2018 <a href="http://aclweb.org/anthology/W18-3207">[Paper]</a> 
+- <b>Winata, et al. (2018)</b> <i>Code-Switching Language Modeling using Syntax-Aware Multi-Task Learning</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL 2018 <a href="http://aclweb.org/anthology/W18-3207">[Paper]</a> <a href="https://github.com/gentaiscool/multi-task-cs-lm">[Code]</a>
 - <b>Chandu, et al. (2018)</b> <i>Language Informed Modeling of Code-Switched Text</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL 2018 <a href="http://www.aclweb.org/anthology/W18-3211">[Paper]</a>
 - <b>Pratapa, et al. (2018)</b> <i>Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data</i>. ACL 2018 <a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/05/language_modeling_cm.pdf">[Paper]</a> 
 - <b>Sivasankaran, et al. (2018)</b> <i>Phone Merging For Code-Switched Speech Recognition</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL 2018 <a href="http://aclweb.org/anthology/W18-3202">[Paper]</a> 
