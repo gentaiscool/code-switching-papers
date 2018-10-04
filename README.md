@@ -25,6 +25,8 @@ Models for Code-Switching Language Modeling</i>. ACL 2013 <a href="http://www.ac
 - <b>Guzman, et al. (2017)</b> <i>Metrics for modeling code-switching across corpora</i>. Interspeech 2017 <a href="https://pdfs.semanticscholar.org/25a5/cf5c7dc2269cf67d98b2fb46317a4d16b581.pdf">[Paper]</a>
 
 ## Named Entity Recognition
+- <b>Wang, et al. (2018)</b> <i>Code-Switched  Named  Entity  Recognition
+with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL 2018 <a href="http://www.aclweb.org/anthology/W18-3221">[Paper]</a>
 - <b>Winata, et al. (2018)</b> <i>Bilingual Character Representation for Efficiently Addressing Out-of-Vocabulary Words in Code-Switching Named Entity Recognition</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL 2018 <a href="http://aclweb.org/anthology/W18-3214">[Paper]</a>
 - <b>Aguilar, et al. (2017)</b> <i>A Multi-task Approach for Named Entity Recognition in Social Media Data</i>. 3rd Workshop on Noisy User-generated Text, EMNLP 2017 <a href="http://www.aclweb.org/anthology/W17-4419">[Paper]</a>
 
