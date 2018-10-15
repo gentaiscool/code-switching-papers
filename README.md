@@ -32,6 +32,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 
 ## Linguistics
 - <b>Belazi, et al. (1994)</b> <i>Code switching and X-bar theory: The functional head constraint</i>. Linguistic inquiry Vol 25 No.2 Spring 1994 <a href="https://www.jstor.org/stable/4178859">[Paper]</a>
+- <b>Lipski (2015)</b> <i>Code-switching or Borrowing? No sé so no puedo decir, you know</i>. <a href="http://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4740/21370_065330.pdf">[Paper]</a>
 
 ## Corpus
 ### Mandarin-English Speech
