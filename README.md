@@ -11,6 +11,8 @@ The list will be updated over the time.
 - <b>Chandu, et al. (2018)</b> <i>Language Informed Modeling of Code-Switched Text</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL 2018 <a href="http://www.aclweb.org/anthology/W18-3211">[Paper]</a>
 - <b>Pratapa, et al. (2018)</b> <i>Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data</i>. ACL 2018 <a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/05/language_modeling_cm.pdf">[Paper]</a> 
 - <b>Sivasankaran, et al. (2018)</b> <i>Phone Merging For Code-Switched Speech Recognition</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL 2018 <a href="http://aclweb.org/anthology/W18-3202">[Paper]</a> 
+- <b>Baheti, et al. (2017)</b> <i>Curriculum Design for Code-switching: Experiments with Language
+Identification and Language Modeling with Deep Neural Networks</i>. ICON 2017 <a href="">[Paper]</a>
 - <b>Adel, et al. (2015)</b> <i>Syntactic and Semantic Features For Code-Switching Factored Language Models</i>. IEEE Transactions on Audio, Speech, and Language Processing 2015 <a href="https://arxiv.org/pdf/1710.01809.pdf">[Paper]</a>
 - <b>Ying Li and Pascale Fung. (2014)</b> <i>Code switch language modeling with Functional Head Constraint</i>. ICASSP 2014 <a href="https://www.semanticscholar.org/paper/Code-switch-language-modeling-with-Functional-Head-Li-Fung/46996cb0e1b6ff7c4bf88b6b200327a1a19cd946">[Paper]</a>
 - <b>Ying Li and Pascale Fung. (2014)</b> <i>Language Modeling with Functional Head Constraint for Code Switching Speech Recognition</i>. EMNLP 2014 <a href="http://www.aclweb.org/anthology/D14-1098">[Paper]</a>
@@ -42,3 +44,6 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 
 ### Dialog and Conversational System
 - <b>Banerjee, et al. (2018)</b> <i>A Dataset for Building Code-Mixed Goal Oriented Conversation Systems</i>. COLING 2018 <a href="https://arxiv.org/pdf/1806.05997.pdf">[Paper]</a>
+
+## Useful other resources
+- <b>Caciullos and Travis (2018)</b> <i>Bilingualism in the Community</i>. Cambridge University Press
