@@ -4,7 +4,7 @@ The list will be updated over the time.
 
 ## Language Identification and POS Tag
 - <b>Victor Soto and Julia Hirschberg. (2018)</b> <i>Joint Part-of-Speech and Language ID Tagging for Code-Switched Data</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://aclweb.org/anthology/W18-3201">[Paper]</a> 
-- <b>Soto, et al. (2017)</b> <i>The Role of Cognate Words, POS Tags, and Entrainment in Code-Switching</i>. Interspeech <a href="http://www.cs.columbia.edu/speech/PaperFiles/2018/soto_is18.pdf">[Paper]</a> 
+- <b>Soto, et al. (2018)</b> <i>The Role of Cognate Words, POS Tags, and Entrainment in Code-Switching</i>. Interspeech <a href="http://www.cs.columbia.edu/speech/PaperFiles/2018/soto_is18.pdf">[Paper]</a> 
 - <b>Thamar Solorio and Yang Liu. (2008)</b> <i>Learning to Predict Code-Switching Points</i>. EMNLP <a href="http://www.aclweb.org/anthology/D08-1102">[Paper]</a>
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
@@ -14,6 +14,7 @@ The list will be updated over the time.
 - <b>Pratapa, et al. (2018)</b> <i>Language Modeling for Code-Mixing: The Role of Linguistic Theory based Synthetic Data</i>. ACL <a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/05/language_modeling_cm.pdf">[Paper]</a> 
 - <b>Sivasankaran, et al. (2018)</b> <i>Phone Merging For Code-Switched Speech Recognition</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://aclweb.org/anthology/W18-3202">[Paper]</a> 
 - <b>Garg, et al. (2018)</b> <i>Dual Language Models for Code Switched Speech Recognition</i>. Interspeech <a href="https://arxiv.org/abs/1711.01048">[Paper]</a>
+- <b>Biswas, et al. (2018)</b> <i>Multilingual Neural Network Acoustic Modelling for ASR of Under-Resourced English-isiZulu Code-Switched Speech</i>. Interspeech <a href="">[Paper]<a/>
 - <b>Baheti, et al. (2017)</b> <i>Curriculum Design for Code-switching: Experiments with Language
 Identification and Language Modeling with Deep Neural Networks</i>. ICON <a href="https://www.microsoft.com/en-us/research/uploads/prod/2018/04/icon-2017-curriculum.pdf">[Paper]</a>
 - <b>Adel, et al. (2015)</b> <i>Syntactic and Semantic Features For Code-Switching Factored Language Models</i>. IEEE Transactions on Audio, Speech, and Language Processing <a href="https://arxiv.org/pdf/1710.01809.pdf">[Paper]</a>
