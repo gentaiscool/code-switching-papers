@@ -2,7 +2,7 @@
 This is the list of important papers on computational linguistic approaches to code-switching research. 
 The list will be updated over the time.
 
-## Language Identification and POS Tag
+## Language Identification and POS Tagging
 - <b>Zeynep Yirmibesoglu and Gulsen Eryigit. (2018)</b> <i>Detecting Code-Switching between Turkish-English Language Pair</i>. Workshop W-NUT, EMNLP <a href="http://www.aclweb.org/anthology/W18-6115">[Paper]</a>
 - <b>Victor Soto and Julia Hirschberg. (2018)</b> <i>Joint Part-of-Speech and Language ID Tagging for Code-Switched Data</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://aclweb.org/anthology/W18-3201">[Paper]</a> 
 - <b>Bullock, et al. (2018)</b> <i>Predicting the presence of a Matrix Language in code-switching</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://www.aclweb.org/anthology/W18-3208">[Paper]</a>
