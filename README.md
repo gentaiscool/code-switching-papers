@@ -3,6 +3,7 @@ This is the list of important papers on computational linguistic approaches to c
 The list will be updated over the time.
 
 ## Language Identification and POS Tag
+- <b>Zeynep Yirmibesoglu and Gulsen Eryigit. (2018)</b> <i>Detecting Code-Switching between Turkish-English Language Pair</i>. Workshop W-NUT, EMNLP <a href="http://www.aclweb.org/anthology/W18-6115">[Paper]</a>
 - <b>Victor Soto and Julia Hirschberg. (2018)</b> <i>Joint Part-of-Speech and Language ID Tagging for Code-Switched Data</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://aclweb.org/anthology/W18-3201">[Paper]</a> 
 - <b>Soto, et al. (2018)</b> <i>The Role of Cognate Words, POS Tags, and Entrainment in Code-Switching</i>. Interspeech <a href="http://www.cs.columbia.edu/speech/PaperFiles/2018/soto_is18.pdf">[Paper]</a> 
 - <b>Thamar Solorio and Yang Liu. (2008)</b> <i>Learning to Predict Code-Switching Points</i>. EMNLP <a href="http://www.aclweb.org/anthology/D08-1102">[Paper]</a>
@@ -56,6 +57,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Lyu, et al. (2010)</b> <i>An Analysis of a Mandarin-English Code-switching Speech Corpus: SEAME</i>. Age <a href="https://www.researchgate.net/profile/Tien_Ping_Tan/publication/266890986_An_Analysis_of_a_Mandarin-English_Code-switching_Speech_Corpus_SEAME/links/54cb12f80cf2517b7560ffbb.pdf">[Paper]</a>
 
 ### Dialog and Conversational System
+- <b>Gupta, et al. (2018)</b> <i>Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural based Question Answering</i>. CoNNL <a href="http://www.aclweb.org/anthology/K18-1012">[Paper]</a>
 - <b>Banerjee, et al. (2018)</b> <i>A Dataset for Building Code-Mixed Goal Oriented Conversation Systems</i>. COLING <a href="https://arxiv.org/pdf/1806.05997.pdf">[Paper]</a>
 
 ## Other useful resources
