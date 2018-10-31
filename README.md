@@ -5,12 +5,14 @@ The list will be updated over the time.
 ## Language Identification and POS Tag
 - <b>Zeynep Yirmibesoglu and Gulsen Eryigit. (2018)</b> <i>Detecting Code-Switching between Turkish-English Language Pair</i>. Workshop W-NUT, EMNLP <a href="http://www.aclweb.org/anthology/W18-6115">[Paper]</a>
 - <b>Victor Soto and Julia Hirschberg. (2018)</b> <i>Joint Part-of-Speech and Language ID Tagging for Code-Switched Data</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://aclweb.org/anthology/W18-3201">[Paper]</a> 
+- <b>Bullock, et al. (2018)</b> <i>Predicting the presence of a Matrix Language in code-switching</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://www.aclweb.org/anthology/W18-3208">[Paper]</a>
 - <b>Soto, et al. (2018)</b> <i>The Role of Cognate Words, POS Tags, and Entrainment in Code-Switching</i>. Interspeech <a href="http://www.cs.columbia.edu/speech/PaperFiles/2018/soto_is18.pdf">[Paper]</a> 
 - <b>Thamar Solorio and Yang Liu. (2008)</b> <i>Learning to Predict Code-Switching Points</i>. EMNLP <a href="http://www.aclweb.org/anthology/D08-1102">[Paper]</a>
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
 ## Language Modeling and Speech Recognition
 - <b>Winata, et al. (2018)</b> <i>Learn to Code-Switch: Data Augmentation using Copy Mechanism on Language Modeling</i>. Under Review <a href="https://arxiv.org/abs/1810.10254v2">[Paper]</a>
+- <b>Winata, et al. (2018)</b> <i>Towards End-to-end Automatic Code-Switching Speech Recognition</i>. Under Review <a href="https://arxiv.org/abs/1810.12620">[Paper]</a>
 - <b>Biswal, et al. (2018)</b> <i>Multilingual Neural Network Acoustic Modelling for ASR of Under-Resourced
 English-isiZulu Code-Switched Speech</i>. Interspeech <a href="https://www.researchgate.net/profile/Emre_Yilmaz33/publication/325571050_Multilingual_Neural_Network_Acoustic_Modelling_for_ASR_of_Under-Resourced_English-isiZulu_Code-Switched_Speech/links/5b2cdac40f7e9b0df5baf271/Multilingual-Neural-Network-Acoustic-Modelling-for-ASR-of-Under-Resourced-English-isiZulu-Code-Switched-Speech.pdf">[Paper]</a>
 - <b>Winata, et al. (2018)</b> <i>Code-Switching Language Modeling using Syntax-Aware Multi-Task Learning</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://aclweb.org/anthology/W18-3207">[Paper]</a> <a href="https://github.com/gentaiscool/multi-task-cs-lm">[Code]</a>
