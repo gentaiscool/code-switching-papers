@@ -4,6 +4,7 @@ The list will be updated over the time.
 
 ## Language Identification and POS Tagging
 - <b>Zeynep Yirmibesoglu and Gulsen Eryigit. (2018)</b> <i>Detecting Code-Switching between Turkish-English Language Pair</i>. Workshop W-NUT, EMNLP <a href="http://www.aclweb.org/anthology/W18-6115">[Paper]</a>
+- <b>Mavem, et al. (2018)</b> <i>Language Identification and Analysis of Code-Switched Social Media Text</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://www.aclweb.org/anthology/W18-3206">[Paper]</a>
 - <b>Victor Soto and Julia Hirschberg. (2018)</b> <i>Joint Part-of-Speech and Language ID Tagging for Code-Switched Data</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://aclweb.org/anthology/W18-3201">[Paper]</a> 
 - <b>Bullock, et al. (2018)</b> <i>Predicting the presence of a Matrix Language in code-switching</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://www.aclweb.org/anthology/W18-3208">[Paper]</a>
 - <b>Soto, et al. (2018)</b> <i>The Role of Cognate Words, POS Tags, and Entrainment in Code-Switching</i>. Interspeech <a href="http://www.cs.columbia.edu/speech/PaperFiles/2018/soto_is18.pdf">[Paper]</a> 
@@ -13,6 +14,8 @@ The list will be updated over the time.
 ## Language Modeling and Speech Recognition
 - <b>Winata, et al. (2018)</b> <i>Learn to Code-Switch: Data Augmentation using Copy Mechanism on Language Modeling</i>. Under Review <a href="https://arxiv.org/abs/1810.10254v2">[Paper]</a>
 - <b>Winata, et al. (2018)</b> <i>Towards End-to-end Automatic Code-Switching Speech Recognition</i>. Under Review <a href="https://arxiv.org/abs/1810.12620">[Paper]</a>
+- <b>Ewald van der Westhuizen and Thomas R. Niesler. (2018)</b> <i>Synthesised bigrams using word embeddings for code-switched
+ASR of four South African language pairs</i>. Computer Speech and Language <a href="https://www.sciencedirect.com/science/article/pii/S0885230818301815">[Paper]</a>
 - <b>Biswal, et al. (2018)</b> <i>Multilingual Neural Network Acoustic Modelling for ASR of Under-Resourced
 English-isiZulu Code-Switched Speech</i>. Interspeech <a href="https://www.researchgate.net/profile/Emre_Yilmaz33/publication/325571050_Multilingual_Neural_Network_Acoustic_Modelling_for_ASR_of_Under-Resourced_English-isiZulu_Code-Switched_Speech/links/5b2cdac40f7e9b0df5baf271/Multilingual-Neural-Network-Acoustic-Modelling-for-ASR-of-Under-Resourced-English-isiZulu-Code-Switched-Speech.pdf">[Paper]</a>
 - <b>Winata, et al. (2018)</b> <i>Code-Switching Language Modeling using Syntax-Aware Multi-Task Learning</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://aclweb.org/anthology/W18-3207">[Paper]</a> <a href="https://github.com/gentaiscool/multi-task-cs-lm">[Code]</a>
@@ -38,7 +41,11 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 ## Word Embedding
 - <b>Pratapa, et al. (2018)</b> <i>Word Embeddings for Code-Mixed Language Processing</i>. EMNLP <a href="http://www.aclweb.org/anthology/D18-1344">[Paper]</a>
 
+## Machine Translation
+- <b>Thoudam Doren Singh and Thamar Solorio. (2017)</b> <i>Towards Translating Mixed-Code Comments from Social Media</i>. CICLing <a href="https://link.springer.com/chapter/10.1007/978-3-319-77116-8_34">[Paper]</a>
+
 ## Named Entity Recognition
+- <b>Aguilar, et al. (2018)</b> <i>Named Entity Recognition on Code-Switched Data: Overview of the CALCS 2018 Shared Task</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://www.aclweb.org/anthology/W18-3219">[Paper]</a>
 - <b>Wang, et al. (2018)</b> <i>Code-Switched  Named  Entity  Recognition
 with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://www.aclweb.org/anthology/W18-3221">[Paper]</a>
 - <b>Winata, et al. (2018)</b> <i>Bilingual Character Representation for Efficiently Addressing Out-of-Vocabulary Words in Code-Switching Named Entity Recognition</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://aclweb.org/anthology/W18-3214">[Paper]</a>
@@ -52,6 +59,9 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Pfaff, Carol W. (1979)</b> <i>Constraints on language mixing: intrasentential code-switching and borrowing in Spanish/English.</i> Language: 291-318. <a href="https://www.jstor.org/stable/pdf/412586.pdf?casa_token=_ghSnFiA7q4AAAAA:TR2oFkeipuhqYca38iK-55yaQ2vMiJG47mdMkDHw3QMdOq1TN935OkaeI5i06KgXnGg8tPjQwXnOLlA8sMdL2VC6kGSrsE2bX2tONqcwhWI2aWcs8kBg">[Paper]</a>
 - <b>Shana Poplack (1978)</b> <i>Syntactic structure and social function of code-switching</i>. Vol. 2. Centro de Estudios Puertorriqueños, City University of New York <a href="https://www.researchgate.net/publication/317039669_Syntactic_structure_and_social_function_of_code-switching">[Paper]</a>
 
+## Dialog and Conversational System
+- <b>Gupta, et al. (2018)</b> <i>Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural based Question Answering</i>. CoNNL <a href="http://www.aclweb.org/anthology/K18-1012">[Paper]</a>
+
 ## Corpus
 ### Mandarin-English Speech
 - <b>Li, et al. (2012)</b> <i>A Mandarin-English Code-Switching Corpus</i>. LREC <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/964_Paper.pdf">[Paper]</a>
@@ -59,7 +69,6 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Lyu, et al. (2010)</b> <i>An Analysis of a Mandarin-English Code-switching Speech Corpus: SEAME</i>. Age <a href="https://www.researchgate.net/profile/Tien_Ping_Tan/publication/266890986_An_Analysis_of_a_Mandarin-English_Code-switching_Speech_Corpus_SEAME/links/54cb12f80cf2517b7560ffbb.pdf">[Paper]</a>
 
 ### Dialog and Conversational System
-- <b>Gupta, et al. (2018)</b> <i>Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural based Question Answering</i>. CoNNL <a href="http://www.aclweb.org/anthology/K18-1012">[Paper]</a>
 - <b>Banerjee, et al. (2018)</b> <i>A Dataset for Building Code-Mixed Goal Oriented Conversation Systems</i>. COLING <a href="https://arxiv.org/pdf/1806.05997.pdf">[Paper]</a>
 
 ## Other useful resources
