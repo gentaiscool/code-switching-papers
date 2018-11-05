@@ -14,6 +14,7 @@ The list will be updated over the time.
 ## Language Modeling and Speech Recognition
 - <b>Winata, et al. (2018)</b> <i>Learn to Code-Switch: Data Augmentation using Copy Mechanism on Language Modeling</i>. Under Review <a href="https://arxiv.org/abs/1810.10254v2">[Paper]</a>
 - <b>Winata, et al. (2018)</b> <i>Towards End-to-end Automatic Code-Switching Speech Recognition</i>. Under Review <a href="https://arxiv.org/abs/1810.12620">[Paper]</a>
+- <b>Garg, et al. (2018)</b> <i>Code-switched Language Models Using Dual RNNs and Same-Source Pretraining</i>. EMNLP <a href="http://aclweb.org/anthology/D18-1346">[Paper]</a>
 - <b>Ewald van der Westhuizen and Thomas R. Niesler. (2018)</b> <i>Synthesised bigrams using word embeddings for code-switched
 ASR of four South African language pairs</i>. Computer Speech and Language <a href="https://www.sciencedirect.com/science/article/pii/S0885230818301815">[Paper]</a>
 - <b>Biswal, et al. (2018)</b> <i>Multilingual Neural Network Acoustic Modelling for ASR of Under-Resourced
