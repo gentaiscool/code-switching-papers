@@ -3,6 +3,7 @@ This is the list of important papers on computational linguistic approaches to c
 The list will be updated over the time.
 
 ## Language Identification and POS Tagging
+- <b>Kelsey Ball and Dan Garrette. (2018)</b> <i>Part-of-Speech Tagging for Code-Switched, Transliterated Texts without Explicit Language Identification</i>. EMNLP <a href="http://aclweb.org/anthology/D18-1347">[Paper]</a>
 - <b>Zeynep Yirmibesoglu and Gulsen Eryigit. (2018)</b> <i>Detecting Code-Switching between Turkish-English Language Pair</i>. Workshop W-NUT, EMNLP <a href="http://www.aclweb.org/anthology/W18-6115">[Paper]</a>
 - <b>Mavem, et al. (2018)</b> <i>Language Identification and Analysis of Code-Switched Social Media Text</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://www.aclweb.org/anthology/W18-3206">[Paper]</a>
 - <b>Victor Soto and Julia Hirschberg. (2018)</b> <i>Joint Part-of-Speech and Language ID Tagging for Code-Switched Data</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://aclweb.org/anthology/W18-3201">[Paper]</a> 
@@ -61,7 +62,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Shana Poplack (1978)</b> <i>Syntactic structure and social function of code-switching</i>. Vol. 2. Centro de Estudios Puertorriqueños, City University of New York <a href="https://www.researchgate.net/publication/317039669_Syntactic_structure_and_social_function_of_code-switching">[Paper]</a>
 
 ## Dialog and Conversational System
-- <b>Gupta, et al. (2018)</b> <i>Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural based Question Answering</i>. CoNNL <a href="http://www.aclweb.org/anthology/K18-1012">[Paper]</a>
+- <b>Gupta, et al. (2018)</b> <i>Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural based Question Answering</i>. CoNLL <a href="http://www.aclweb.org/anthology/K18-1012">[Paper]</a>
 
 ## Corpus
 ### Mandarin-English Speech
