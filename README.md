@@ -13,6 +13,7 @@ The list will be updated over the time.
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
 ## Language Modeling and Speech Recognition
+- <b>Ganji Sreeram and Rohit Sinha. (2019)</b> <i>Exploiting Parts-of-Speech for Improved Textual Modeling of Code-Switching Data</i>. 2018 Twenty Fourth National Conference on Communications (NCC) <a href="https://ieeexplore.ieee.org/abstract/document/8600097">[Paper]</a>
 - <b>Winata, et al. (2018)</b> <i>Learn to Code-Switch: Data Augmentation using Copy Mechanism on Language Modeling</i>. Under Review <a href="https://arxiv.org/abs/1810.10254v2">[Paper]</a>
 - <b>Winata, et al. (2018)</b> <i>Towards End-to-end Automatic Code-Switching Speech Recognition</i>. Under Review <a href="https://arxiv.org/abs/1810.12620">[Paper]</a>
 - <b>Garg, et al. (2018)</b> <i>Code-switched Language Models Using Dual RNNs and Same-Source Pretraining</i>. EMNLP <a href="http://aclweb.org/anthology/D18-1346">[Paper]</a>
