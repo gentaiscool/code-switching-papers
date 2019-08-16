@@ -15,7 +15,7 @@ The list will be updated over the time.
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
 ## Language Modeling and Speech Recognition
-- <b> Hamed, et al. (2019)<i>Code-Switching Language Modeling with Bilingual Word Embeddings: A Case Study for Egyptian Arabic-English</i> International Conference on Speech and Computer <a href="https://link.springer.com/chapter/10.1007/978-3-030-26061-3_17">[Paper]</a>
+- <b> Hamed, et al. (2019)</b> <i>Code-Switching Language Modeling with Bilingual Word Embeddings: A Case Study for Egyptian Arabic-English</i> International Conference on Speech and Computer <a href="https://link.springer.com/chapter/10.1007/978-3-030-26061-3_17">[Paper]</a>
 - <b> Nakayama, et al. (2018)</b> <i>Speech Chain for Semi-Supervised Learning of Japanese-English Code-Switching ASR and TTS</i> IEEE Spoken Language Technology Workshop (SLT) <a href="https://ieeexplore.ieee.org/iel7/8632666/8639030/08639674.pdf">[Paper]</a>
 - <b> Jesse Emond, Bhuwana Ramabhadran, Brian Roark, Pedro Moreno, and Min Ma. (2018)</b> <i>Transliteration Based Approaches to Improve Code-Switched Speech Recognition Performance</i> IEEE Spoken Language Technology Workshop (SLT) <a href="https://ieeexplore.ieee.org/iel7/8632666/8639030/08639699.pdf">[Paper]</a>
 - <b>Ganji Sreeram and Rohit Sinha. (2019)</b> <i>Exploiting Parts-of-Speech for Improved Textual Modeling of Code-Switching Data</i>. 2018 Twenty Fourth National Conference on Communications (NCC) <a href="https://ieeexplore.ieee.org/abstract/document/8600097">[Paper]</a>
