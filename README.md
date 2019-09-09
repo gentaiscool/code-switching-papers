@@ -15,6 +15,7 @@ The list will be updated over the time.
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
 ## Language Modeling and Speech Recognition
+- <b> Winata, et al. (2019)</b> <i>Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences</i>. The Conference on Computational Natural Language Learning (CoNLL)
 - <b> Grandee Lee, Haizhou Li. (2019)</b> <i>Word and Class Common Space Embedding for Code-switch Language Modelling</i>. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) <a href="https://www.researchgate.net/profile/Grandee_Lee/publication/331122308_Word_and_Class_Common_Space_Embedding_for_Code-switch_Language_Modelling/links/5c66b31a45851582c3eadf09/Word-and-Class-Common-Space-Embedding-for-Code-switch-Language-Modelling.pdf">[Paper]</a>
 - <b> Hamed, et al. (2019)</b> <i>Code-Switching Language Modeling with Bilingual Word Embeddings: A Case Study for Egyptian Arabic-English</i>. International Conference on Speech and Computer <a href="https://link.springer.com/chapter/10.1007/978-3-030-26061-3_17">[Paper]</a>
 - <b> Nakayama, et al. (2018)</b> <i>Speech Chain for Semi-Supervised Learning of Japanese-English Code-Switching ASR and TTS</i>. IEEE Spoken Language Technology Workshop (SLT) <a href="https://ieeexplore.ieee.org/iel7/8632666/8639030/08639674.pdf">[Paper]</a>
@@ -46,7 +47,7 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 - <b>Guzman, et al. (2017)</b> <i>Metrics for modeling code-switching across corpora</i>. Interspeech <a href="https://pdfs.semanticscholar.org/25a5/cf5c7dc2269cf67d98b2fb46317a4d16b581.pdf">[Paper]</a>
 
 ## Representational Learning
-- <b>Winata, et al. (2019)</b> <i>Learning Multilingual Meta-Embeddings for Code-Switching Named Entity Recognition</i>. Repl4NLP, ACL <a href="https://www.aclweb.org/anthology/W19-4320">[Paper]</a>
+- <b>Winata, et al. (2019)</b> <i>Learning Multilingual Meta-Embeddings for Code-Switching Named Entity Recognition</i>. Repl4NLP, ACL <a href="https://www.aclweb.org/anthology/W19-4320">[Paper]</a> <a href="https://github.com/gentaiscool/meta-emb">[Code]</a>
 - <b>Pratapa, et al. (2018)</b> <i>Word Embeddings for Code-Mixed Language Processing</i>. EMNLP <a href="http://www.aclweb.org/anthology/D18-1344">[Paper]</a>
 
 ## Machine Translation
