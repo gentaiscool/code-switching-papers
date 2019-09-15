@@ -47,7 +47,7 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 - <b>Guzman, et al. (2017)</b> <i>Metrics for modeling code-switching across corpora</i>. Interspeech <a href="https://pdfs.semanticscholar.org/25a5/cf5c7dc2269cf67d98b2fb46317a4d16b581.pdf">[Paper]</a>
 
 ## Representational Learning
-- <b>Winata, et al. (2019)</b> <i>Learning Multilingual Meta-Embeddings for Code-Switching Named Entity Recognition</i>. Repl4NLP, ACL <a href="https://www.aclweb.org/anthology/W19-4320">[Paper]</a> <a href="https://github.com/gentaiscool/meta-emb">[Code]</a>
+- <b>Winata, et al. (2019)</b> <i>Learning Multilingual Meta-Embeddings for Code-Switching Named Entity Recognition</i>. RepL4NLP, ACL <a href="https://www.aclweb.org/anthology/W19-4320">[Paper]</a> <a href="https://github.com/gentaiscool/meta-emb">[Code]</a>
 - <b>Pratapa, et al. (2018)</b> <i>Word Embeddings for Code-Mixed Language Processing</i>. EMNLP <a href="http://www.aclweb.org/anthology/D18-1344">[Paper]</a>
 
 ## Machine Translation
@@ -70,6 +70,9 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 
 ## Dialog and Conversational System
 - <b>Gupta, et al. (2018)</b> <i>Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural based Question Answering</i>. CoNLL <a href="http://www.aclweb.org/anthology/K18-1012">[Paper]</a>
+
+## Social Science
+- <b>Yoder, et al. (2017)</b> <i>Code-Switching as a Social Act:The Case of Arabic Wikipedia Talk Pages</i>. Proceedings of the Second Workshop on Natural Language Processing and Computational Social Science, ACL <a href="https://www.aclweb.org/anthology/W17-2911">[Paper]</a>
 
 ## Corpus
 - <b>Singh, et al. (2018)</b> <i>A Twitter Corpus for Hindi-English Code Mixed POS Tagging</i>. Sixth International Workshop on Natural Language Processing for Social Media, ACL <a href="http://aclweb.org/anthology/W18-3503">[Paper]</a>
