@@ -16,6 +16,8 @@ The list will be updated over the time.
 
 ## Language Modeling and Speech Recognition
 - <b> Winata, et al. (2019)</b> <i>Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences</i>. CoNLL <a href="https://arxiv.org/abs/1909.08582">[Paper]</a>
+- <b> Chang, et al. (2019)</b> <i>Code-switching Sentence Generation by Generative Adversarial Networks and its Application to Data Augmentation</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3214.pdf">[Paper]</a>
+- <b> Zeng, et al. (2019)</b> <i>On the End-to-End Solution to Mandarin-English Code-switching Speech Recognition</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1429.pdf">[Paper]</a>
 - <b> Taneja, et al. (2019)</b> <i>Exploiting Monolingual Speech Corpora for Code-mixed Speech Recognition</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1959.pdf">[Paper]</a>
 - <b> Grandee Lee, Haizhou Li. (2019)</b> <i>Word and Class Common Space Embedding for Code-switch Language Modelling</i>. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) <a href="https://www.researchgate.net/profile/Grandee_Lee/publication/331122308_Word_and_Class_Common_Space_Embedding_for_Code-switch_Language_Modelling/links/5c66b31a45851582c3eadf09/Word-and-Class-Common-Space-Embedding-for-Code-switch-Language-Modelling.pdf">[Paper]</a>
 - <b> Hamed, et al. (2019)</b> <i>Code-Switching Language Modeling with Bilingual Word Embeddings: A Case Study for Egyptian Arabic-English</i>. International Conference on Speech and Computer <a href="https://link.springer.com/chapter/10.1007/978-3-030-26061-3_17">[Paper]</a>
