@@ -74,6 +74,9 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Pfaff, Carol W. (1979)</b> <i>Constraints on language mixing: intrasentential code-switching and borrowing in Spanish/English.</i> Language: 291-318. <a href="https://www.jstor.org/stable/pdf/412586.pdf?casa_token=_ghSnFiA7q4AAAAA:TR2oFkeipuhqYca38iK-55yaQ2vMiJG47mdMkDHw3QMdOq1TN935OkaeI5i06KgXnGg8tPjQwXnOLlA8sMdL2VC6kGSrsE2bX2tONqcwhWI2aWcs8kBg">[Paper]</a>
 - <b>Shana Poplack (1978)</b> <i>Syntactic structure and social function of code-switching</i>. Vol. 2. Centro de Estudios Puertorriqueños, City University of New York <a href="https://www.researchgate.net/publication/317039669_Syntactic_structure_and_social_function_of_code-switching">[Paper]</a>
 
+## Affect Computing
+- <b>Wang, et al. (2017)</b> <i>Emotion Analysis in Code-Switching Text With Joint Factor Graph Model</i>. IEEE/ACM Transactions on Audio, Speech, and Language Processing <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7776833">[Paper]</a>
+
 ## Dialog and Conversational System
 - <b>Gupta, et al. (2018)</b> <i>Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural based Question Answering</i>. CoNLL <a href="http://www.aclweb.org/anthology/K18-1012">[Paper]</a>
 
