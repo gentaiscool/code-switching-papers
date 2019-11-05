@@ -85,7 +85,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 
 ## Social Linguistics
 - <b>Yoder, et al. (2017)</b> <i>Code-Switching as a Social Act:The Case of Arabic Wikipedia Talk Pages</i>. Proceedings of the Second Workshop on Natural Language Processing and Computational Social Science, ACL <a href="https://www.aclweb.org/anthology/W17-2911">[Paper]</a>
-- <b>Agrawal, et al. (2017)</b> <i>Agarwal, Prabhat, et al. "I may talk in English but gaali toh Hindi mein hi denge: A study of English-Hindi code-switching and swearing pattern on social networks.</i>. International Conference on Communication Systems and Networks (COMSNETS) <a href="https://ieeexplore.ieee.org/abstract/document/7945452">[Paper]</a>
+- <b>Agrawal, et al. (2017)</b> <i>Agarwal, Prabhat, et al. I may talk in English but gaali toh Hindi mein hi denge: A study of English-Hindi code-switching and swearing pattern on social networks</i>. International Conference on Communication Systems and Networks (COMSNETS) <a href="https://ieeexplore.ieee.org/abstract/document/7945452">[Paper]</a>
 
 ## Corpus
 - <b>Singh, et al. (2018)</b> <i>A Twitter Corpus for Hindi-English Code Mixed POS Tagging</i>. Sixth International Workshop on Natural Language Processing for Social Media, ACL <a href="http://aclweb.org/anthology/W18-3503">[Paper]</a>
