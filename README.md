@@ -77,7 +77,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 ## Affective Computing
 - <b>Wang, et al. (2017)</b> <i>Emotion Analysis in Code-Switching Text With Joint Factor Graph Model</i>. IEEE/ACM Transactions on Audio, Speech, and Language Processing <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7776833">[Paper]</a>
 - <b>Wang, et al. (2016)</b> <i>A Bilingual Attention Network for Code-switched Emotion Prediction</i>. COLING <a href="https://www.aclweb.org/anthology/C16-1153.pdf">[Paper]</a>
-- <b>Wang, et al. (2015)</b> <i>A Bilingual Attention Network for Code-switched Emotion Prediction</i>. ACL <a href="https://www.aclweb.org/anthology/P15-2125.pdf">[Paper]</a>
+- <b>Wang, et al. (2015)</b> <i>Emotion Detection in Code-switching Texts via Bilingual and Sentimental Information</i>. ACL <a href="https://www.aclweb.org/anthology/P15-2125.pdf">[Paper]</a>
 
 ## Dialog and Conversational System
 - <b>Gupta, et al. (2018)</b> <i>Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural based Question Answering</i>. CoNLL <a href="http://www.aclweb.org/anthology/K18-1012">[Paper]</a>
