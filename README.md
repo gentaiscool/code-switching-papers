@@ -15,7 +15,8 @@ The list will be updated over the time.
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
 ## Language Modeling and Speech Recognition
-- <b> Winata, et al. (2019)</b> <i>Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences</i>. CoNLL <a href="https://arxiv.org/abs/1909.08582">[Paper]</a>
+- <b> Winata, et al. (2019)</b> <i>Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences</i>. CoNLL <a href="https://www.aclweb.org/anthology/K19-1026.pdf">[Paper]</a>
+- <b> Hila Gonen and Yoav Goldberg (2019)</b> <i>Language Modeling for Code-Switching:Evaluation, Integration of Monolingual Data, and Discriminative Training</i>. EMNLP <a href="https://www.aclweb.org/anthology/D19-1427.pdf">[Paper]</a>
 - <b> Lee, et al. (2019)</b> <i>Linguistically Motivated Parallel Data Augmentation for Code-switch Language Modeling</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1382.pdf">[Paper]</a>
 - <b> Victor Soto and Julia Hirschberg (2019)</b> <i>Improving Code-Switched Language Modeling Performance Using Cognate Features</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2681.pdf">[Paper]</a>
 - <b> Chang, et al. (2019)</b> <i>Code-switching Sentence Generation by Generative Adversarial Networks and its Application to Data Augmentation</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3214.pdf">[Paper]</a>
