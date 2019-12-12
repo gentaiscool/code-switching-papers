@@ -3,7 +3,7 @@ This is the list of important papers on computational linguistic approaches to c
 The list will be updated over the time. 
 
 ### Tutorial
-There was a comprehensive tutorial about code-mixing by Microsoft Research at EMNLP 2019, you can also check the following <a href="https://genius1237.github.io/emnlp19_tut/?fbclid=IwAR2BwbeZhrcChpvjB6gnS50Ws5b8kwj1S3HdY3LTsiONFqBwRoHvRdq8iKw">link</a>.
+There was a comprehensive tutorial about code-mixing by Microsoft Research (Monojit Choudhury, Kalika Bali, Anirudh Srinivasan, and Sandipan Dandapat) at EMNLP 2019, you can also check the following <a href="https://genius1237.github.io/emnlp19_tut/?fbclid=IwAR2BwbeZhrcChpvjB6gnS50Ws5b8kwj1S3HdY3LTsiONFqBwRoHvRdq8iKw">link</a>.
 
 ## Language Identification and POS Tagging
 - <b>Mager, et al. (2019)</b> <i>Subword-Level Language Identification for Intra-Word Code-Switching</i>. NAACL <a href="https://arxiv.org/abs/1904.01989">[Paper]</a>
