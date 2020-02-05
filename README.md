@@ -82,6 +82,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Gumperz, J. J., & Hernandez, E. (1969)</b> <i>Cognitive aspects of bilingual communication</i>. Institute of International Studies, University of California <a href="https://files.eric.ed.gov/fulltext/ED138103.pdf">[Paper]</a>
 
 ## Affective Computing
+- <b>Siddharth Yadav (2020)</b> <i>Unsupervised Sentiment Analysis for Code-mixed Data</i>. <a href="https://arxiv.org/pdf/2001.11384.pdf">[Paper] <a href="https://github.com/sedflix/unsacmt">[Code]</a>
 - <b>Wang, et al. (2017)</b> <i>Emotion Analysis in Code-Switching Text With Joint Factor Graph Model</i>. IEEE/ACM Transactions on Audio, Speech, and Language Processing <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7776833">[Paper]</a>
 - <b>Wang, et al. (2016)</b> <i>A Bilingual Attention Network for Code-switched Emotion Prediction</i>. COLING <a href="https://www.aclweb.org/anthology/C16-1153.pdf">[Paper]</a>
 - <b>Sophia Lee and Zhongqing Wang (2015)</b> <i>Emotion in Code-switching Texts: Corpus Construction and Analysis</i>. Proceedings of the Eighth SIGHAN Workshop on Chinese Language Processing <a href="https://www.aclweb.org/anthology/W15-3116.pdf">[Paper]</a>
