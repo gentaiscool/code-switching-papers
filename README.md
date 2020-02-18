@@ -20,6 +20,7 @@ There was a comprehensive tutorial about code-mixing by Microsoft Research (Mono
 ## Language Modeling and Speech Recognition
 - <b> Winata, et al. (2019)</b> <i>Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences</i>. CoNLL <a href="https://www.aclweb.org/anthology/K19-1026.pdf">[Paper]</a>
 - <b> Hila Gonen and Yoav Goldberg (2019)</b> <i>Language Modeling for Code-Switching:Evaluation, Integration of Monolingual Data, and Discriminative Training</i>. EMNLP <a href="https://www.aclweb.org/anthology/D19-1427.pdf">[Paper]</a>
+- <b> Sai Krishna Rallabandi and Alan W Black (2019)</b> <i>Variational Attention using Articulatory Priors for generating Code Mixed Speech using Monolingual Corpora</i>. Interspeech <a href="https://pdfs.semanticscholar.org/5e74/c4c5688a24248a9bd04aa0474c28bc267ba5.pdf">[Paper]</i>
 - <b> Lee, et al. (2019)</b> <i>Linguistically Motivated Parallel Data Augmentation for Code-switch Language Modeling</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1382.pdf">[Paper]</a>
 - <b> Victor Soto and Julia Hirschberg (2019)</b> <i>Improving Code-Switched Language Modeling Performance Using Cognate Features</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2681.pdf">[Paper]</a>
 - <b> Chang, et al. (2019)</b> <i>Code-switching Sentence Generation by Generative Adversarial Networks and its Application to Data Augmentation</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3214.pdf">[Paper]</a>
@@ -51,6 +52,10 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 - <b>Vu, et al. (2012)</b> <i>A First Speech Recognition System for Mandarin-English Code-Switch Conversational Speech</i>. ICASSP <a href="https://www.csl.uni-bremen.de/cms/images/documents/publications/ICASSP2012-Vu_CodeSwitch.pdf">[Paper]</a>
 - <b>Ying Li and Pascale Fung. (2012)</b> <i>Code-switch Language Model with Inversion Constraints for Mixed Language Speech Recognition</i>. COLING <a href="http://www.aclweb.org/anthology/C12-1102">[Paper]</a>
 - <b>Li, et al. (2011)</b> <i>Asymmetric acoustic modeling of mixed language speech</i>. ICASSP <a href="https://pdfs.semanticscholar.org/1b57/5dbb14901b0cfa668f21a3b188beee4c9582.pdf">[Paper]</a>
+
+## Speech Synthesis
+- <b> Sai Krishna Rallabandi and Alan W Black (2017)</b> <i>On Building Mixed Lingual Speech Synthesis Systems.</i> Interspeech <a href="https://pdfs.semanticscholar.org/02a2/0ed2182475b40a4e7744aa6555607adffa62.pdf">[Paper]</a>
+- <b> Chandu, et al. (2017)</b> <i>Speech Synthesis for Mixed-Language Navigation Instructions.</i> Interspeech <a href="https://pdfs.semanticscholar.org/99f0/7e194197a55fd017657d4cd1a8d9c349de05.pdf?_ga=2.136822064.183444372.1582035562-2106241630.1557729576">[Paper]</a>
 
 ## Metric
 - <b>Guzman, et al. (2017)</b> <i>Metrics for modeling code-switching across corpora</i>. Interspeech <a href="https://pdfs.semanticscholar.org/25a5/cf5c7dc2269cf67d98b2fb46317a4d16b581.pdf">[Paper]</a>
