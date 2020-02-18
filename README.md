@@ -1,8 +1,8 @@
 # Code-switching Research Papers
 This is the list of important papers on computational linguistic approaches to code-switching research. 
-The list will be updated over the time. 
+The list will be updated over the time. You are welcome to send a pull request for updating the list 🚀
 
-### Tutorial
+### 📔 Tutorial
 There was a comprehensive tutorial about code-mixing by Microsoft Research (Monojit Choudhury, Kalika Bali, Anirudh Srinivasan, and Sandipan Dandapat) at EMNLP 2019, you can also check the following <a href="https://genius1237.github.io/emnlp19_tut/?fbclid=IwAR2BwbeZhrcChpvjB6gnS50Ws5b8kwj1S3HdY3LTsiONFqBwRoHvRdq8iKw">link</a>.
 
 ## Language Identification and POS Tagging
@@ -20,7 +20,7 @@ There was a comprehensive tutorial about code-mixing by Microsoft Research (Mono
 ## Language Modeling and Speech Recognition
 - <b> Winata, et al. (2019)</b> <i>Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences</i>. CoNLL <a href="https://www.aclweb.org/anthology/K19-1026.pdf">[Paper]</a>
 - <b> Hila Gonen and Yoav Goldberg (2019)</b> <i>Language Modeling for Code-Switching:Evaluation, Integration of Monolingual Data, and Discriminative Training</i>. EMNLP <a href="https://www.aclweb.org/anthology/D19-1427.pdf">[Paper]</a>
-- <b> Sai Krishna Rallabandi and Alan W Black (2019)</b> <i>Variational Attention using Articulatory Priors for generating Code Mixed Speech using Monolingual Corpora</i>. Interspeech <a href="https://pdfs.semanticscholar.org/5e74/c4c5688a24248a9bd04aa0474c28bc267ba5.pdf">[Paper]</i>
+- <b> Sai Krishna Rallabandi and Alan W Black (2019)</b> <i>Variational Attention using Articulatory Priors for generating Code Mixed Speech using Monolingual Corpora</i>. Interspeech <a href="https://pdfs.semanticscholar.org/5e74/c4c5688a24248a9bd04aa0474c28bc267ba5.pdf">[Paper]</a>
 - <b> Lee, et al. (2019)</b> <i>Linguistically Motivated Parallel Data Augmentation for Code-switch Language Modeling</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1382.pdf">[Paper]</a>
 - <b> Victor Soto and Julia Hirschberg (2019)</b> <i>Improving Code-Switched Language Modeling Performance Using Cognate Features</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2681.pdf">[Paper]</a>
 - <b> Chang, et al. (2019)</b> <i>Code-switching Sentence Generation by Generative Adversarial Networks and its Application to Data Augmentation</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3214.pdf">[Paper]</a>
@@ -114,6 +114,9 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 
 ### Annotation Tool
 - <b>Shah, et al. (2019)</b> <i>CoSSAT: Code-Switched Speech Annotation Tool</i>. Proceedings of the First Workshop on Aggregating and Analysing Crowdsourced Annotations for NLP <a href="https://www.aclweb.org/anthology/D19-5907.pdf">[Paper]</a>
+
+## Survey Paper
+- <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i> Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
 
 ## Other useful resources
 ### Book
