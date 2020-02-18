@@ -3,7 +3,7 @@ This is the list of important papers on computational linguistic approaches to c
 The list will be updated over the time. You are welcome to send a pull request for updating the list 🚀
 
 ### 📔 Tutorial
-There was a comprehensive tutorial about code-mixing by Microsoft Research (Monojit Choudhury, Kalika Bali, Anirudh Srinivasan, and Sandipan Dandapat) at EMNLP 2019, you can also check the following <a href="https://genius1237.github.io/emnlp19_tut/?fbclid=IwAR2BwbeZhrcChpvjB6gnS50Ws5b8kwj1S3HdY3LTsiONFqBwRoHvRdq8iKw">link</a>.
+There was a comprehensive tutorial about code-mixing by Microsoft Research (Monojit Choudhury, Kalika Bali, Anirudh Srinivasan, and Sandipan Dandapat) at EMNLP 2019, you can check the following <a href="https://genius1237.github.io/emnlp19_tut/?fbclid=IwAR2BwbeZhrcChpvjB6gnS50Ws5b8kwj1S3HdY3LTsiONFqBwRoHvRdq8iKw">link</a>.
 
 ## Language Identification and POS Tagging
 - <b>Mager, et al. (2019)</b> <i>Subword-Level Language Identification for Intra-Word Code-Switching</i>. NAACL <a href="https://arxiv.org/abs/1904.01989">[Paper]</a>
@@ -18,18 +18,18 @@ There was a comprehensive tutorial about code-mixing by Microsoft Research (Mono
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
 ## Language Modeling and Speech Recognition
-- <b> Winata, et al. (2019)</b> <i>Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences</i>. CoNLL <a href="https://www.aclweb.org/anthology/K19-1026.pdf">[Paper]</a>
-- <b> Hila Gonen and Yoav Goldberg (2019)</b> <i>Language Modeling for Code-Switching:Evaluation, Integration of Monolingual Data, and Discriminative Training</i>. EMNLP <a href="https://www.aclweb.org/anthology/D19-1427.pdf">[Paper]</a>
-- <b> Sai Krishna Rallabandi and Alan W Black (2019)</b> <i>Variational Attention using Articulatory Priors for generating Code Mixed Speech using Monolingual Corpora</i>. Interspeech <a href="https://pdfs.semanticscholar.org/5e74/c4c5688a24248a9bd04aa0474c28bc267ba5.pdf">[Paper]</a>
-- <b> Lee, et al. (2019)</b> <i>Linguistically Motivated Parallel Data Augmentation for Code-switch Language Modeling</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1382.pdf">[Paper]</a>
-- <b> Victor Soto and Julia Hirschberg (2019)</b> <i>Improving Code-Switched Language Modeling Performance Using Cognate Features</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2681.pdf">[Paper]</a>
-- <b> Chang, et al. (2019)</b> <i>Code-switching Sentence Generation by Generative Adversarial Networks and its Application to Data Augmentation</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3214.pdf">[Paper]</a>
-- <b> Zeng, et al. (2019)</b> <i>On the End-to-End Solution to Mandarin-English Code-switching Speech Recognition</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1429.pdf">[Paper]</a>
-- <b> Taneja, et al. (2019)</b> <i>Exploiting Monolingual Speech Corpora for Code-mixed Speech Recognition</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1959.pdf">[Paper]</a>
-- <b> Grandee Lee, Haizhou Li. (2019)</b> <i>Word and Class Common Space Embedding for Code-switch Language Modelling</i>. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) <a href="https://www.researchgate.net/profile/Grandee_Lee/publication/331122308_Word_and_Class_Common_Space_Embedding_for_Code-switch_Language_Modelling/links/5c66b31a45851582c3eadf09/Word-and-Class-Common-Space-Embedding-for-Code-switch-Language-Modelling.pdf">[Paper]</a>
-- <b> Hamed, et al. (2019)</b> <i>Code-Switching Language Modeling with Bilingual Word Embeddings: A Case Study for Egyptian Arabic-English</i>. International Conference on Speech and Computer <a href="https://link.springer.com/chapter/10.1007/978-3-030-26061-3_17">[Paper]</a>
-- <b> Nakayama, et al. (2018)</b> <i>Speech Chain for Semi-Supervised Learning of Japanese-English Code-Switching ASR and TTS</i>. IEEE Spoken Language Technology Workshop (SLT) <a href="https://ieeexplore.ieee.org/iel7/8632666/8639030/08639674.pdf">[Paper]</a>
-- <b> Jesse Emond, Bhuwana Ramabhadran, Brian Roark, Pedro Moreno, and Min Ma. (2018)</b> <i>Transliteration Based Approaches to Improve Code-Switched Speech Recognition Performance</i>, IEEE Spoken Language Technology Workshop (SLT) <a href="https://ieeexplore.ieee.org/iel7/8632666/8639030/08639699.pdf">[Paper]</a>
+- <b>Winata, et al. (2019)</b> <i>Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences</i>. CoNLL <a href="https://www.aclweb.org/anthology/K19-1026.pdf">[Paper]</a>
+- <b>Hila Gonen and Yoav Goldberg (2019)</b> <i>Language Modeling for Code-Switching:Evaluation, Integration of Monolingual Data, and Discriminative Training</i>. EMNLP <a href="https://www.aclweb.org/anthology/D19-1427.pdf">[Paper]</a>
+- <b>Sai Krishna Rallabandi and Alan W Black (2019)</b> <i>Variational Attention using Articulatory Priors for generating Code Mixed Speech using Monolingual Corpora</i>. Interspeech <a href="https://pdfs.semanticscholar.org/5e74/c4c5688a24248a9bd04aa0474c28bc267ba5.pdf">[Paper]</a>
+- <b>Lee, et al. (2019)</b> <i>Linguistically Motivated Parallel Data Augmentation for Code-switch Language Modeling</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1382.pdf">[Paper]</a>
+- <b>Victor Soto and Julia Hirschberg (2019)</b> <i>Improving Code-Switched Language Modeling Performance Using Cognate Features</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/2681.pdf">[Paper]</a>
+- <b>Chang, et al. (2019)</b> <i>Code-switching Sentence Generation by Generative Adversarial Networks and its Application to Data Augmentation</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/3214.pdf">[Paper]</a>
+- <b>Zeng, et al. (2019)</b> <i>On the End-to-End Solution to Mandarin-English Code-switching Speech Recognition</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1429.pdf">[Paper]</a>
+- <b>Taneja, et al. (2019)</b> <i>Exploiting Monolingual Speech Corpora for Code-mixed Speech Recognition</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1959.pdf">[Paper]</a>
+- <b>Grandee Lee, Haizhou Li. (2019)</b> <i>Word and Class Common Space Embedding for Code-switch Language Modelling</i>. IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) <a href="https://www.researchgate.net/profile/Grandee_Lee/publication/331122308_Word_and_Class_Common_Space_Embedding_for_Code-switch_Language_Modelling/links/5c66b31a45851582c3eadf09/Word-and-Class-Common-Space-Embedding-for-Code-switch-Language-Modelling.pdf">[Paper]</a>
+- <b>Hamed, et al. (2019)</b> <i>Code-Switching Language Modeling with Bilingual Word Embeddings: A Case Study for Egyptian Arabic-English</i>. International Conference on Speech and Computer <a href="https://link.springer.com/chapter/10.1007/978-3-030-26061-3_17">[Paper]</a>
+- <b>Nakayama, et al. (2018)</b> <i>Speech Chain for Semi-Supervised Learning of Japanese-English Code-Switching ASR and TTS</i>. IEEE Spoken Language Technology Workshop (SLT) <a href="https://ieeexplore.ieee.org/iel7/8632666/8639030/08639674.pdf">[Paper]</a>
+- <b>Jesse Emond, Bhuwana Ramabhadran, Brian Roark, Pedro Moreno, and Min Ma. (2018)</b> <i>Transliteration Based Approaches to Improve Code-Switched Speech Recognition Performance</i>, IEEE Spoken Language Technology Workshop (SLT) <a href="https://ieeexplore.ieee.org/iel7/8632666/8639030/08639699.pdf">[Paper]</a>
 - <b>Ganji Sreeram and Rohit Sinha. (2018)</b> <i>Exploiting Parts-of-Speech for Improved Textual Modeling of Code-Switching Data</i>. 2018 Twenty Fourth National Conference on Communications (NCC) <a href="https://ieeexplore.ieee.org/abstract/document/8600097">[Paper]</a>
 - <b>Garg, et al. (2018)</b> <i>Code-switched Language Models Using Dual RNNs and Same-Source Pretraining</i>. EMNLP <a href="http://aclweb.org/anthology/D18-1346">[Paper]</a>
 - <b>Ewald van der Westhuizen and Thomas R. Niesler. (2018)</b> <i>Synthesised bigrams using word embeddings for code-switched
@@ -54,8 +54,8 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 - <b>Li, et al. (2011)</b> <i>Asymmetric acoustic modeling of mixed language speech</i>. ICASSP <a href="https://pdfs.semanticscholar.org/1b57/5dbb14901b0cfa668f21a3b188beee4c9582.pdf">[Paper]</a>
 
 ## Speech Synthesis
-- <b> Sai Krishna Rallabandi and Alan W Black (2017)</b> <i>On Building Mixed Lingual Speech Synthesis Systems.</i> Interspeech <a href="https://pdfs.semanticscholar.org/02a2/0ed2182475b40a4e7744aa6555607adffa62.pdf">[Paper]</a>
-- <b> Chandu, et al. (2017)</b> <i>Speech Synthesis for Mixed-Language Navigation Instructions.</i> Interspeech <a href="https://pdfs.semanticscholar.org/99f0/7e194197a55fd017657d4cd1a8d9c349de05.pdf?_ga=2.136822064.183444372.1582035562-2106241630.1557729576">[Paper]</a>
+- <b>Sai Krishna Rallabandi and Alan W Black (2017)</b> <i>On Building Mixed Lingual Speech Synthesis Systems.</i> Interspeech <a href="https://pdfs.semanticscholar.org/02a2/0ed2182475b40a4e7744aa6555607adffa62.pdf">[Paper]</a>
+- <b>Chandu, et al. (2017)</b> <i>Speech Synthesis for Mixed-Language Navigation Instructions.</i> Interspeech <a href="https://pdfs.semanticscholar.org/99f0/7e194197a55fd017657d4cd1a8d9c349de05.pdf?_ga=2.136822064.183444372.1582035562-2106241630.1557729576">[Paper]</a>
 
 ## Metric
 - <b>Guzman, et al. (2017)</b> <i>Metrics for modeling code-switching across corpora</i>. Interspeech <a href="https://pdfs.semanticscholar.org/25a5/cf5c7dc2269cf67d98b2fb46317a4d16b581.pdf">[Paper]</a>
