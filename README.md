@@ -107,6 +107,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Agrawal, et al. (2017)</b> <i>Agarwal, Prabhat, et al. I may talk in English but gaali toh Hindi mein hi denge: A study of English-Hindi code-switching and swearing pattern on social networks</i>. International Conference on Communication Systems and Networks (COMSNETS) <a href="https://ieeexplore.ieee.org/abstract/document/7945452">[Paper]</a>
 
 ## Corpus
+- <b>Khanuja, et al. (2020)</b> <i>A New Dataset for Natural Language Inference from Code-mixed Conversations</i>. 4th Workshop of Computational Approaches to Linguistic Code-switching, LREC <a href="https://arxiv.org/abs/2004.05051">[Paper]</a>
 - <b>Singh, et al. (2018)</b> <i>A Twitter Corpus for Hindi-English Code Mixed POS Tagging</i>. Sixth International Workshop on Natural Language Processing for Social Media, ACL <a href="http://aclweb.org/anthology/W18-3503">[Paper]</a>
 - <b>Li, et al. (2012)</b> <i>A Mandarin-English Code-Switching Corpus</i>. LREC <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/964_Paper.pdf">[Paper]</a>
 - <b>Lyu, et al. (2010)</b> <i>SEAME: A Mandarin-English Code-Switching Speech Corpus in South-East Asia</i>. Interspeech <a href="https://pdfs.semanticscholar.org/de83/7c40f54125ce9c612c143ebc6c9ca5e84b13.pdf">[Paper]</a>
