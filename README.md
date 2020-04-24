@@ -18,6 +18,8 @@ There was a comprehensive tutorial about code-mixing by Microsoft Research (Mono
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
 ## Language Modeling and Speech Recognition
+- <b>Winata, et al. (2020)</b> <i>Meta-Transfer Learning for Code-Switched Speech Recognition</i>. ACL
+- <b>Gustavo Aguilar and Thamar Solorio. (2020)</b> <i>From English to Code-Switching: Transfer Learning with Strong Morphological Clues</i>. ACL <a href="https://arxiv.org/pdf/1909.05158.pdf">[Paper]</a>
 - <b>Winata, et al. (2019)</b> <i>Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences</i>. CoNLL <a href="https://www.aclweb.org/anthology/K19-1026.pdf">[Paper]</a>
 - <b>Hila Gonen and Yoav Goldberg (2019)</b> <i>Language Modeling for Code-Switching:Evaluation, Integration of Monolingual Data, and Discriminative Training</i>. EMNLP <a href="https://www.aclweb.org/anthology/D19-1427.pdf">[Paper]</a>
 - <b>Lee, et al. (2019)</b> <i>Linguistically Motivated Parallel Data Augmentation for Code-switch Language Modeling</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1382.pdf">[Paper]</a>
