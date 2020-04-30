@@ -6,7 +6,7 @@ The list will be updated over the time. You are welcome to send a pull request f
 There was a comprehensive tutorial about code-mixing by Microsoft Research (Monojit Choudhury, Kalika Bali, Anirudh Srinivasan, and Sandipan Dandapat) at EMNLP 2019, you can check the following <a href="https://genius1237.github.io/emnlp19_tut/?fbclid=IwAR2BwbeZhrcChpvjB6gnS50Ws5b8kwj1S3HdY3LTsiONFqBwRoHvRdq8iKw">link</a>.
 
 ## Language Identification and POS Tagging
-- <b>Gustavo Aguilar and Thamar Solorio. (2020)</b> <i>From English to Code-Switching: Transfer Learning with Strong Morphological Clues</i>. ACL <a href="https://arxiv.org/pdf/1909.05158.pdf">[Paper]</a>
+- <b>Gustavo Aguilar and Thamar Solorio. (2020)</b> <i>From English to Code-Switching: Transfer Learning with Strong Morphological Clues</i>. ACL <a href="https://arxiv.org/pdf/1909.05158.pdf">[Paper]</a> <a href="https://github.com/gaguilar/cs_elmo">[Code]</a>
 - <b>Mager, et al. (2019)</b> <i>Subword-Level Language Identification for Intra-Word Code-Switching</i>. NAACL <a href="https://arxiv.org/abs/1904.01989">[Paper]</a>
 - <b>Kelsey Ball and Dan Garrette. (2018)</b> <i>Part-of-Speech Tagging for Code-Switched, Transliterated Texts without Explicit Language Identification</i>. EMNLP <a href="http://aclweb.org/anthology/D18-1347">[Paper]</a>
 - <b>Zeynep Yirmibesoglu and Gulsen Eryigit. (2018)</b> <i>Detecting Code-Switching between Turkish-English Language Pair</i>. Workshop W-NUT, EMNLP <a href="http://www.aclweb.org/anthology/W18-6115">[Paper]</a>
@@ -19,7 +19,7 @@ There was a comprehensive tutorial about code-mixing by Microsoft Research (Mono
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
 ## Language Modeling and Speech Recognition
-- <b>Winata, et al. (2020)</b> <i>Meta-Transfer Learning for Code-Switched Speech Recognition</i>. ACL <a href="https://arxiv.org/pdf/2004.14228.pdf">[Paper]</a>
+- <b>Winata, et al. (2020)</b> <i>Meta-Transfer Learning for Code-Switched Speech Recognition</i>. ACL <a href="https://arxiv.org/pdf/2004.14228.pdf">[Paper]</a> <a href="https://github.com/audioku/meta-transfer-learning">[Code]</a>
 - <b>Winata, et al. (2019)</b> <i>Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences</i>. CoNLL <a href="https://www.aclweb.org/anthology/K19-1026.pdf">[Paper]</a>
 - <b>Hila Gonen and Yoav Goldberg (2019)</b> <i>Language Modeling for Code-Switching:Evaluation, Integration of Monolingual Data, and Discriminative Training</i>. EMNLP <a href="https://www.aclweb.org/anthology/D19-1427.pdf">[Paper]</a>
 - <b>Lee, et al. (2019)</b> <i>Linguistically Motivated Parallel Data Augmentation for Code-switch Language Modeling</i>. Interspeech <a href="https://www.isca-speech.org/archive/Interspeech_2019/pdfs/1382.pdf">[Paper]</a>
@@ -71,6 +71,7 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 - <b>Thoudam Doren Singh and Thamar Solorio. (2017)</b> <i>Towards Translating Mixed-Code Comments from Social Media</i>. CICLing <a href="https://link.springer.com/chapter/10.1007/978-3-319-77116-8_34">[Paper]</a>
 
 ## Named Entity Recognition
+- <b>Priyadharshini, et al. (2020)</b> <i>Named Entity Recognition for Code-Mixed Indian Corpus using Meta Embedding</i>. 6th International Conference on Advanced Computing and Communication Systems (ICACCS) <a href="https://ieeexplore.ieee.org/abstract/document/9074379">[Paper]</a>
 - <b>Winata, et al. (2019)</b> <i>Learning Multilingual Meta-Embeddings for Code-Switching Named Entity Recognition</i>. RepL4NLP, ACL <a href="https://www.aclweb.org/anthology/W19-4320">[Paper]</a> <a href="https://github.com/gentaiscool/meta-emb">[Code]</a>
 - <b>Aguilar, et al. (2018)</b> <i>Named Entity Recognition on Code-Switched Data: Overview of the CALCS 2018 Shared Task</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://www.aclweb.org/anthology/W18-3219">[Paper]</a>
 - <b>Wang, et al. (2018)</b> <i>Code-Switched  Named  Entity  Recognition
