@@ -20,6 +20,7 @@ There was a comprehensive tutorial about code-mixing by Microsoft Research (Mono
 
 ## Language Modeling and Speech Recognition
 - <b>Winata, et al. (2020)</b> <i>Meta-Transfer Learning for Code-Switched Speech Recognition</i>. ACL <a href="https://arxiv.org/pdf/2004.14228.pdf">[Paper]</a> <a href="https://github.com/audioku/meta-transfer-learning">[Code]</a>
+- <b>Chandu, et al. (2020)</b> <i>Style Variation as a Vantage Point for Code-Switching</i>. Arxiv <a href="https://arxiv.org/pdf/2005.00458.pdf">[Paper]</a>
 - <b>Ganji Sreeram and Rohit Sinha (2020)</b> <i>Exploration of End-to-End Framework for Code-Switching Speech Recognition Task: Challenges and Enhancements</i>. IEEE Access <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9058687">[Paper]</a>
 - <b>Winata, et al. (2019)</b> <i>Code-Switched Language Models Using Neural Based Synthetic Data from Parallel Sentences</i>. CoNLL <a href="https://www.aclweb.org/anthology/K19-1026.pdf">[Paper]</a>
 - <b>Hila Gonen and Yoav Goldberg (2019)</b> <i>Language Modeling for Code-Switching:Evaluation, Integration of Monolingual Data, and Discriminative Training</i>. EMNLP <a href="https://www.aclweb.org/anthology/D19-1427.pdf">[Paper]</a>
@@ -125,7 +126,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Shah, et al. (2019)</b> <i>CoSSAT: Code-Switched Speech Annotation Tool</i>. Proceedings of the First Workshop on Aggregating and Analysing Crowdsourced Annotations for NLP <a href="https://www.aclweb.org/anthology/D19-5907.pdf">[Paper]</a>
 
 ## Survey Paper
-- <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i> Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
+- <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i>. Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
 
 ## Other useful resources
 ### Book
