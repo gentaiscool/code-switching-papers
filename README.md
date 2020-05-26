@@ -66,6 +66,7 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 - <b>Guzman, et al. (2017)</b> <i>Metrics for modeling code-switching across corpora</i>. Interspeech <a href="https://pdfs.semanticscholar.org/25a5/cf5c7dc2269cf67d98b2fb46317a4d16b581.pdf">[Paper]</a>
 
 ## Representation Learning
+- <b>Rizal, et al. (2020)</b> <i>Evaluating Word Embeddings for Indonesian–English Code-Mixed Text Based on Synthetic Data</i>. Proceedings of the The 4th Workshop on Computational Approaches to Code Switching (CALCS), LREC <a href="https://www.aclweb.org/anthology/2020.calcs-1.4/">[Paper]</a>
 - <b>Winata, et al. (2019)</b> <i>Hierarchical Meta-Embeddings for Code-Switching Named Entity Recognition</i>. EMNLP <a href="https://arxiv.org/abs/1909.08504">[Paper]</a> <a href="https://github.com/gentaiscool/meta-emb">[Code]</a>
 - <b>Pratapa, et al. (2018)</b> <i>Word Embeddings for Code-Mixed Language Processing</i>. EMNLP <a href="http://www.aclweb.org/anthology/D18-1344">[Paper]</a>
 
@@ -111,6 +112,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 
 ## Benchmark
 - <b>Khanuja, et al. (2020)</b> <i>GLUECoS : An Evaluation Benchmark for Code-Switched NLP</i>. ACL <a href="https://arxiv.org/pdf/2004.12376.pdf">[Paper]</a>
+- <b>Aguilar, et al. (2020)</b> <i>LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation</i>. LREC <a href="">[Paper]</a>
 
 ## Corpus
 - <b>Khanuja, et al. (2020)</b> <i>A New Dataset for Natural Language Inference from Code-mixed Conversations</i>. 4th Workshop of Computational Approaches to Linguistic Code-switching, LREC <a href="https://arxiv.org/abs/2004.05051">[Paper]</a>
