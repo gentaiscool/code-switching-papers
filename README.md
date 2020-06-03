@@ -19,6 +19,7 @@ There was a comprehensive tutorial about code-mixing by Microsoft Research (Mono
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
 ## Language Modeling and Speech Recognition
+- <b>Shah, et al. (2020)</b> <i>Learning to Recognize Code-switched Speech Without Forgetting Monolingual Speech Recognition</i>. Arxiv <a href="https://arxiv.org/pdf/2006.00782.pdf">[Paper]</a>
 - <b>Winata, et al. (2020)</b> <i>Meta-Transfer Learning for Code-Switched Speech Recognition</i>. ACL <a href="https://arxiv.org/pdf/2004.14228.pdf">[Paper]</a> <a href="https://github.com/audioku/meta-transfer-learning">[Code]</a>
 - <b>Chandu, et al. (2020)</b> <i>Style Variation as a Vantage Point for Code-Switching</i>. Arxiv <a href="https://arxiv.org/pdf/2005.00458.pdf">[Paper]</a>
 - <b>Ganji Sreeram and Rohit Sinha (2020)</b> <i>Exploration of End-to-End Framework for Code-Switching Speech Recognition Task: Challenges and Enhancements</i>. IEEE Access <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9058687">[Paper]</a>
@@ -115,6 +116,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Aguilar, et al. (2020)</b> <i>LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation</i>. LREC <a href="">[Paper]</a>
 
 ## Corpus
+- <b>Chakravarthi, et al. (2020)</b> <i>Corpus Creation for Sentiment Analysis in Code-Mixed Tamil-English Text</i>. Spoken Language Technologies for Under-resourced languages) and CCURL (Collaboration and Computing for Under-Resourced Languages Workshop, LREC <a href="https://arxiv.org/pdf/2006.00206.pdf">[Paper]</a>
 - <b>Khanuja, et al. (2020)</b> <i>A New Dataset for Natural Language Inference from Code-mixed Conversations</i>. 4th Workshop of Computational Approaches to Linguistic Code-switching, LREC <a href="https://arxiv.org/abs/2004.05051">[Paper]</a>
 - <b>Singh, et al. (2018)</b> <i>A Twitter Corpus for Hindi-English Code Mixed POS Tagging</i>. Sixth International Workshop on Natural Language Processing for Social Media, ACL <a href="http://aclweb.org/anthology/W18-3503">[Paper]</a>
 - <b>Li, et al. (2012)</b> <i>A Mandarin-English Code-Switching Corpus</i>. LREC <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/964_Paper.pdf">[Paper]</a>
