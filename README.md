@@ -19,7 +19,8 @@ There was a comprehensive tutorial about code-mixing by Microsoft Research (Mono
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
 ## Language Modeling and Speech Recognition
-- <b>Madhumani, et al. (2020)</b> <i>Learning not to Discriminate: Task Agnostic Learning for ImprovingMonolingual and Code-switched Speech Recognition</i>. Arxiv <a href="https://arxiv.org/pdf/2006.05257.pdf">[Paper]</a>
+- <b>Kumar, et al. (2020)</b> <i>Machine Learning based Language Modelling of Code Switched Data</i>. International Conference on Electronics and Sustainable Communication Systems (ICESC) <a href="https://ieeexplore.ieee.org/abstract/document/9155695">[Paper]</a>
+- <b>Madhumani, et al. (2020)</b> <i>Learning not to Discriminate: Task Agnostic Learning for Improving Monolingual and Code-switched Speech Recognition</i>. Arxiv <a href="https://arxiv.org/pdf/2006.05257.pdf">[Paper]</a>
 - <b>Shah, et al. (2020)</b> <i>Learning to Recognize Code-switched Speech Without Forgetting Monolingual Speech Recognition</i>. Arxiv <a href="https://arxiv.org/pdf/2006.00782.pdf">[Paper]</a>
 - <b>Winata, et al. (2020)</b> <i>Meta-Transfer Learning for Code-Switched Speech Recognition</i>. ACL <a href="https://arxiv.org/pdf/2004.14228.pdf">[Paper]</a> <a href="https://github.com/audioku/meta-transfer-learning">[Code]</a>
 - <b>Chandu, et al. (2020)</b> <i>Style Variation as a Vantage Point for Code-Switching</i>. Arxiv <a href="https://arxiv.org/pdf/2005.00458.pdf">[Paper]</a>
