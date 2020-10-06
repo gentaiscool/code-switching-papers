@@ -141,9 +141,6 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 ## Survey Paper
 - <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i>. Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
 
-## Thesis
-- <b>Khyathi Raghavi Chandu (2020)</b> <i>Effective Anchoring for Multimodal Narrative Intelligence</i>. Dissertation CMU <a href="">[TBA]</a>
-
 ## Other useful resources
 ### Book
 - <b>Caciullos and Travis (2018)</b> <i>Bilingualism in the Community</i>. Cambridge University Press
