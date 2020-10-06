@@ -120,12 +120,16 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Aguilar, et al. (2020)</b> <i>LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation</i>. LREC <a href="">[Paper]</a>
 
 ## Corpus
+- <b>Xiang, et al. (2020)</b> <i>Sina Mandarin Alphabetical Words:A Web-driven Code-mixing Lexical Resource</i>. AACL-IJCNLP <a href="">[TBC]</a>
 - <b>Chakravarthi, et al. (2020)</b> <i>Corpus Creation for Sentiment Analysis in Code-Mixed Tamil-English Text</i>. Spoken Language Technologies for Under-resourced languages) and CCURL (Collaboration and Computing for Under-Resourced Languages Workshop, LREC <a href="https://arxiv.org/pdf/2006.00206.pdf">[Paper]</a>
 - <b>Khanuja, et al. (2020)</b> <i>A New Dataset for Natural Language Inference from Code-mixed Conversations</i>. 4th Workshop of Computational Approaches to Linguistic Code-switching, LREC <a href="https://arxiv.org/abs/2004.05051">[Paper]</a>
 - <b>Singh, et al. (2018)</b> <i>A Twitter Corpus for Hindi-English Code Mixed POS Tagging</i>. Sixth International Workshop on Natural Language Processing for Social Media, ACL <a href="http://aclweb.org/anthology/W18-3503">[Paper]</a>
 - <b>Li, et al. (2012)</b> <i>A Mandarin-English Code-Switching Corpus</i>. LREC <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/964_Paper.pdf">[Paper]</a>
 - <b>Lyu, et al. (2010)</b> <i>SEAME: A Mandarin-English Code-Switching Speech Corpus in South-East Asia</i>. Interspeech <a href="https://pdfs.semanticscholar.org/de83/7c40f54125ce9c612c143ebc6c9ca5e84b13.pdf">[Paper]</a>
 - <b>Lyu, et al. (2010)</b> <i>An Analysis of a Mandarin-English Code-switching Speech Corpus: SEAME</i>. Age <a href="https://www.researchgate.net/profile/Tien_Ping_Tan/publication/266890986_An_Analysis_of_a_Mandarin-English_Code-switching_Speech_Corpus_SEAME/links/54cb12f80cf2517b7560ffbb.pdf">[Paper]</a>
+
+### Question Answering
+- <b>Gupta, et al. (2020)</b> <i>A Unified Framework for Multilingual and Code-Mixed Visual Question Answering</i>. AACL-IJCNLP <a href="">[TBA]</a>
 
 ### Dialog and Conversational System
 - <b>Bawa, et al. (2020)</b> <i>Do Multilingual Users Prefer Chat-bots that Code-mix? Let's Nudge and Find Out!</i>. ACM on Human-Computer Interaction <a href="https://dl.acm.org/doi/pdf/10.1145/3392846">[Paper]</a>
@@ -136,6 +140,9 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 
 ## Survey Paper
 - <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i>. Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
+
+## Thesis
+- <b>Khyathi Raghavi Chandu (2020)</b> <i>Effective Anchoring for Multimodal Narrative Intelligence</i>. Dissertation CMU <a href="">[TBA]</a>
 
 ## Other useful resources
 ### Book
