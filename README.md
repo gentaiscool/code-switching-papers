@@ -3,7 +3,15 @@ This is the list of important papers on computational linguistic approaches to c
 The list will be updated over the time. You are welcome to send a pull request for updating the list 🚀
 
 ## 📔 Tutorial
-There was a comprehensive tutorial about code-mixing by Microsoft Research (Monojit Choudhury, Kalika Bali, Anirudh Srinivasan, and Sandipan Dandapat) at EMNLP 2019, you can check the following <a href="https://genius1237.github.io/emnlp19_tut/?fbclid=IwAR2BwbeZhrcChpvjB6gnS50Ws5b8kwj1S3HdY3LTsiONFqBwRoHvRdq8iKw">link</a>.
+There was a comprehensive tutorial about code-mixing by Microsoft Research (Monojit Choudhury, Kalika Bali, Anirudh Srinivasan, and Sandipan Dandapat) at EMNLP 2019, you can check the following <a href="https://genius1237.github.io/emnlp19_tut/">link</a>.
+
+## 🏫 Workshops
+This is the list of the code-switching workshop series:
+- First Workshop on Computational Approaches to Code-switching, EMNLP 2014 <a href="http://emnlp2014.org/workshops/CodeSwitch/call.html">[Website]</a>
+- Second Workshop on Computational Approaches to Code-switching, EMNLP 2016
+- Third Workshop on Computational Approaches to Linguistic Code-switching, ACL 2018 <a href="https://code-switching.github.io/2018/">[Website]</a>
+- Fourth Workshop on Computational Approaches to Linguistic Code-switching, LREC 2020 <a href="https://code-switching.github.io/2020/">[Website]</a>
+- First Workshop on Speech Technologies for Code-switching in Multilingual Communities, Interspeech 2020 <a href="https://www.microsoft.com/en-us/research/event/workshop-on-speech-technologies-for-code-switching-2020/">[Website]</a>
 
 ## 📑 Research Paper
 
