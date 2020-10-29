@@ -1,8 +1,10 @@
 # Code-switching Research Resources
-This is the list of important papers on computational linguistic approaches to code-switching research. 
-The list will be updated over the time. You are welcome to send a pull request for updating the list 🚀
+This is the list of important tutorials, workshops, papers, and resources on computational linguistic approaches to code-switching research. 
+The list will be updated over the time. You are welcome to send a pull request for updating the list and be one of the contributors! 🚀
 
-## 📔 Tutorial
+📌 I plan to collect theses and books on code-switching and list them here. If you have one, don't hesitate to contact me or send a pull request! 
+
+## 📔 Tutorials
 There was a comprehensive tutorial about code-mixing by Microsoft Research (Monojit Choudhury, Kalika Bali, Anirudh Srinivasan, and Sandipan Dandapat) at EMNLP 2019, you can check the following <a href="https://genius1237.github.io/emnlp19_tut/">link</a>.
 
 ## 🏫 Workshops
@@ -13,7 +15,7 @@ This is the list of the code-switching workshop series:
 - Fourth Workshop on Computational Approaches to Linguistic Code-switching, LREC 2020 <a href="https://code-switching.github.io/2020/">[Website]</a>
 - First Workshop on Speech Technologies for Code-switching in Multilingual Communities, Interspeech 2020 <a href="https://www.microsoft.com/en-us/research/event/workshop-on-speech-technologies-for-code-switching-2020/">[Website]</a>
 
-## 📑 Research Paper
+## 📑 Research Papers
 
 ### Language Identification and POS Tagging
 - <b>Gustavo Aguilar and Thamar Solorio. (2020)</b> <i>From English to Code-Switching: Transfer Learning with Strong Morphological Clues</i>. ACL <a href="https://arxiv.org/pdf/1909.05158.pdf">[Paper]</a> <a href="https://github.com/gaguilar/cs_elmo">[Code]</a>
@@ -152,6 +154,8 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 ### Survey Paper
 - <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i>. Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
 
-### Other useful resources
-#### Book
+## Books
 - <b>Caciullos and Travis (2018)</b> <i>Bilingualism in the Community</i>. Cambridge University Press
+
+## Theses
+- To be added
