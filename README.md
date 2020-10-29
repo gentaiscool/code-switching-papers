@@ -78,6 +78,7 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 - <b>Pratapa, et al. (2018)</b> <i>Word Embeddings for Code-Mixed Language Processing</i>. EMNLP <a href="http://www.aclweb.org/anthology/D18-1344">[Paper]</a>
 
 ### Machine Translation
+- <b>Vivek Srivastava and Mayank Singh (2020)</b> <i>PHINC: A Parallel Hinglish Social Media Code-Mixed Corpus forMachine Translation</i>. W-NUT, EMNLP <a href="http://noisy-text.github.io/2020/pdf/2020.d200-1.7.pdf">[Paper]</a> <a href="https://zenodo.org/record/3605597#.X5rwWXgzZQI">[Dataset]</a>
 - <b>Thoudam Doren Singh and Thamar Solorio. (2017)</b> <i>Towards Translating Mixed-Code Comments from Social Media</i>. CICLing <a href="https://link.springer.com/chapter/10.1007/978-3-319-77116-8_34">[Paper]</a>
 
 ### Named Entity Recognition
