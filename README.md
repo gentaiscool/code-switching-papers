@@ -133,6 +133,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Aguilar, et al. (2020)</b> <i>LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation</i>. LREC <a href="">[Paper]</a>
 
 ### Corpus
+- <b>Umapathy, et al. (2020)</b> <i>Investigating Modelling Techniques for Natural Language Inference on Code-Switched Dialogues in Bollywood Movies</i>. First Workshop on Speech Technologies for Code-switching in Multilingual Communities, Interspeech 2020 <a href="https://aka.ms/CodeMixedNLI">[Dataset]</a>
 - <b>Xiang, et al. (2020)</b> <i>Sina Mandarin Alphabetical Words:A Web-driven Code-mixing Lexical Resource</i>. AACL-IJCNLP <a href="">[TBC]</a>
 - <b>Chakravarthi, et al. (2020)</b> <i>Corpus Creation for Sentiment Analysis in Code-Mixed Tamil-English Text</i>. Spoken Language Technologies for Under-resourced languages) and CCURL (Collaboration and Computing for Under-Resourced Languages Workshop, LREC <a href="https://arxiv.org/pdf/2006.00206.pdf">[Paper]</a>
 - <b>Khanuja, et al. (2020)</b> <i>A New Dataset for Natural Language Inference from Code-mixed Conversations</i>. 4th Workshop of Computational Approaches to Linguistic Code-switching, LREC <a href="https://arxiv.org/abs/2004.05051">[Paper]</a>
