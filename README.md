@@ -27,6 +27,8 @@ This is the list of the code-switching workshop series:
 - <b>Bullock, et al. (2018)</b> <i>Predicting the presence of a Matrix Language in code-switching</i>. 3rd Workshop of Computational Approaches to Linguistic Code-switching, ACL <a href="http://www.aclweb.org/anthology/W18-3208">[Paper]</a>
 - <b>Soto, et al. (2018)</b> <i>The Role of Cognate Words, POS Tags, and Entrainment in Code-Switching</i>. Interspeech <a href="http://www.cs.columbia.edu/speech/PaperFiles/2018/soto_is18.pdf">[Paper]</a> 
 - <b>Barman, et al. (2016)</b> <i>Part-of-speech Tagging of Code-mixed Social Media Content: Pipeline,Stacking and Joint Modelling</i>. 2nd Workshop on Computational Approaches to Code-Switching, ACL <a href="https://aclweb.org/anthology/W16-5804">[Paper]</a> 
+- <b>Vyas, et al. (2014)</b> <i>POS Tagging of English-Hindi Code-Mixed Social Media Content</i>. EMNLP <a href="https://www.aclweb.org/anthology/D14-1105.pdf">[Paper]</a>
+- <b>Heba Elfardy and Mona Diab. (2012)</b> <i>Token Level Identification of Linguistic Code Switching</i>. COLING <a href="https://www.aclweb.org/anthology/C12-2029.pdf">[Paper]</a>
 - <b>Thamar Solorio and Yang Liu. (2008)</b> <i>Learning to Predict Code-Switching Points</i>. EMNLP <a href="http://www.aclweb.org/anthology/D08-1102">[Paper]</a>
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
