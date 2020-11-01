@@ -156,6 +156,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Shah, et al. (2019)</b> <i>CoSSAT: Code-Switched Speech Annotation Tool</i>. Proceedings of the First Workshop on Aggregating and Analysing Crowdsourced Annotations for NLP <a href="https://www.aclweb.org/anthology/D19-5907.pdf">[Paper]</a>
 
 ### Survey Paper
+- <b>Jose, et al. (2020)</b> <i>A Survey of Current Datasets for Code-Switching Research</i>. International Conference on Advanced Computing and Communication Systems (ICACCS) <a href="https://ieeexplore.ieee.org/document/9074205">[Paper]</a>
 - <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i>. Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
 
 ## Books
