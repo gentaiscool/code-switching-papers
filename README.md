@@ -135,6 +135,9 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Khanuja, et al. (2020)</b> <i>GLUECoS : An Evaluation Benchmark for Code-Switched NLP</i>. ACL <a href="https://arxiv.org/pdf/2004.12376.pdf">[Paper]</a>
 - <b>Aguilar, et al. (2020)</b> <i>LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation</i>. LREC <a href="">[Paper]</a>
 
+### Social Media
+- <b>Bali, et al. (2014)</b> <i>“I am borrowing ya mixing ?” An Analysis of English-Hindi Code Mixing in Facebook</i>. Proceedings of The First Workshop on Computational Approaches to Code Switching <a href="https://www.aclweb.org/anthology/W14-3914.pdf">[Paper]</a>
+
 ### Corpus
 - <b>Umapathy, et al. (2020)</b> <i>Investigating Modelling Techniques for Natural Language Inference on Code-Switched Dialogues in Bollywood Movies</i>. First Workshop on Speech Technologies for Code-switching in Multilingual Communities, Interspeech 2020 <a href="https://aka.ms/CodeMixedNLI">[Dataset]</a>
 - <b>Xiang, et al. (2020)</b> <i>Sina Mandarin Alphabetical Words:A Web-driven Code-mixing Lexical Resource</i>. AACL-IJCNLP <a href="">[TBC]</a>
