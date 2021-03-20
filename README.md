@@ -78,7 +78,7 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 - <b>Li, et al. (2011)</b> <i>Asymmetric acoustic modeling of mixed language speech</i>. ICASSP <a href="https://pdfs.semanticscholar.org/1b57/5dbb14901b0cfa668f21a3b188beee4c9582.pdf">[Paper]</a>
 
 ### Generation
-- <b>Gupta (2020)</b> <i>A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning</i>. Findings of EMNLP <a href="https://www.aclweb.org/anthology/2020.findings-emnlp.206.pdf">[Paper]</a>
+- <b>Gupta, et al. (2020)</b> <i>A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning</i>. Findings of EMNLP <a href="https://www.aclweb.org/anthology/2020.findings-emnlp.206.pdf">[Paper]</a>
 
 ### Speech Synthesis
 - <b>Sai Krishna Rallabandi and Alan W Black (2019)</b> <i>Variational Attention using Articulatory Priors for generating Code Mixed Speech using Monolingual Corpora</i>. Interspeech <a href="https://pdfs.semanticscholar.org/5e74/c4c5688a24248a9bd04aa0474c28bc267ba5.pdf">[Paper]</a>
