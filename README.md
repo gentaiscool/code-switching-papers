@@ -89,6 +89,7 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 - <b>Guzman, et al. (2017)</b> <i>Metrics for modeling code-switching across corpora</i>. Interspeech <a href="https://pdfs.semanticscholar.org/25a5/cf5c7dc2269cf67d98b2fb46317a4d16b581.pdf">[Paper]</a>
 
 ### Representation Learning
+- <b>Winata, et al. (2021)</b> <i>Are Multilingual Models Effective in Code-Switching?</i>. Arxiv <a href="https://arxiv.org/abs/2103.13309">[Paper]</a>
 - <b>Rizal, et al. (2020)</b> <i>Evaluating Word Embeddings for Indonesian–English Code-Mixed Text Based on Synthetic Data</i>. Proceedings of the The 4th Workshop on Computational Approaches to Code Switching (CALCS), LREC <a href="https://www.aclweb.org/anthology/2020.calcs-1.4/">[Paper]</a>
 - <b>Winata, et al. (2019)</b> <i>Hierarchical Meta-Embeddings for Code-Switching Named Entity Recognition</i>. EMNLP <a href="https://arxiv.org/abs/1909.08504">[Paper]</a> <a href="https://github.com/gentaiscool/meta-emb">[Code]</a>
 - <b>Pratapa, et al. (2018)</b> <i>Word Embeddings for Code-Mixed Language Processing</i>. EMNLP <a href="http://www.aclweb.org/anthology/D18-1344">[Paper]</a>
