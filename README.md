@@ -83,7 +83,7 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 ### Generation
 - <b>Gupta, et al. (2020)</b> <i>A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning</i>. Findings of EMNLP <a href="https://www.aclweb.org/anthology/2020.findings-emnlp.206.pdf">[Paper]</a>
 
-### Toolkit
+### Synthetic Data Generation Toolkit
 - <b>Rizvi, et al. (2021)</b> <i>GCM: A Toolkit for Generating Synthetic Code-mixed Text</i>. EACL (System Demonstrations) <a href="https://www.aclweb.org/anthology/2021.eacl-demos.24.pdf">[Paper]</a> <a href="https://github.com/microsoft/CodeMixed-Text-Generator">[Code]</a>
 
 ### Speech Synthesis
