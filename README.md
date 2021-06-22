@@ -83,9 +83,6 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 ### Generation
 - <b>Gupta, et al. (2020)</b> <i>A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning</i>. Findings of EMNLP <a href="https://www.aclweb.org/anthology/2020.findings-emnlp.206.pdf">[Paper]</a>
 
-### Synthetic Data Generation Toolkit
-- <b>Rizvi, et al. (2021)</b> <i>GCM: A Toolkit for Generating Synthetic Code-mixed Text</i>. EACL (System Demonstrations) <a href="https://www.aclweb.org/anthology/2021.eacl-demos.24.pdf">[Paper]</a> <a href="https://github.com/microsoft/CodeMixed-Text-Generator">[Code]</a>
-
 ### Speech Synthesis
 - <b>Sai Krishna Rallabandi and Alan W Black (2019)</b> <i>Variational Attention using Articulatory Priors for generating Code Mixed Speech using Monolingual Corpora</i>. Interspeech <a href="https://pdfs.semanticscholar.org/5e74/c4c5688a24248a9bd04aa0474c28bc267ba5.pdf">[Paper]</a>
 - <b>Sai Krishna Rallabandi and Alan W Black (2017)</b> <i>On Building Mixed Lingual Speech Synthesis Systems.</i> Interspeech <a href="https://pdfs.semanticscholar.org/02a2/0ed2182475b40a4e7744aa6555607adffa62.pdf">[Paper]</a>
@@ -126,14 +123,17 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 
 ### Affective Computing
 - <b>Chakravarthi, et al. (2021)</b> <i>DravidianCodeMix: Sentiment Analysis and Offensive Language Identification Dataset for Dravidian Languages in Code-Mixed Text</i>. Arxiv <a href="https://arxiv.org/pdf/2106.09460.pdf">[Paper]</a> <a href="https://github.com/bharathichezhiyan/DravidianCodeMix-Dataset">[Code and Dataset]</a>
-- <b>Siddharth Yadav (2020)</b> <i>Unsupervised Sentiment Analysis for Code-mixed Data</i>. <a href="https://arxiv.org/pdf/2001.11384.pdf">[Paper] <a href="https://github.com/sedflix/unsacmt">[Code]</a>
+- <b>Siddharth Yadav (2020)</b> <i>Unsupervised Sentiment Analysis for Code-mixed Data</i>. Arxiv<a href="https://arxiv.org/pdf/2001.11384.pdf">[Paper]</a> <a href="https://github.com/sedflix/unsacmt">[Code]</a>
 - <b>Wang, et al. (2017)</b> <i>Emotion Analysis in Code-Switching Text With Joint Factor Graph Model</i>. IEEE/ACM Transactions on Audio, Speech, and Language Processing <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7776833">[Paper]</a>
 - <b>Wang, et al. (2016)</b> <i>A Bilingual Attention Network for Code-switched Emotion Prediction</i>. COLING <a href="https://www.aclweb.org/anthology/C16-1153.pdf">[Paper]</a>
 - <b>Sophia Lee and Zhongqing Wang (2015)</b> <i>Emotion in Code-switching Texts: Corpus Construction and Analysis</i>. Proceedings of the Eighth SIGHAN Workshop on Chinese Language Processing <a href="https://www.aclweb.org/anthology/W15-3116.pdf">[Paper]</a>
 - <b>Wang, et al. (2015)</b> <i>Emotion Detection in Code-switching Texts via Bilingual and Sentimental Information</i>. ACL <a href="https://www.aclweb.org/anthology/P15-2125.pdf">[Paper]</a>
-
+  
 ### Dialog and Conversational System
 - <b>Gupta, et al. (2018)</b> <i>Uncovering Code-Mixed Challenges: A Framework for Linguistically Driven Question Generation and Neural based Question Answering</i>. CoNLL <a href="http://www.aclweb.org/anthology/K18-1012">[Paper]</a>
+
+### Discourse
+- <b>Sravani, et al. (2021)</b> <i>Political Discourse Analysis: A Case Study of Code Mixing and Code Switching in Political Speeches</i>. CALCS Proceedings of the 5th Workshop on Computational Approaches to Code Switching (CALCS), NAACL <a href="https://www.aclweb.org/anthology/2021.calcs-1.1.pdf">[Paper]</a>
 
 ### Syntax
 - <b>Özlem Çetinoglu and Çagrı Çöltekin (2019)</b> <i>Challenges of Annotating a Code-Switching Treebank</i>. SyntaxFest <a href="https://syntaxfest.github.io/syntaxfest19/proceedings/papers/paper_83.pdf">[Paper]</a>
@@ -153,6 +153,14 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 ### Social Media
 - <b>Bali, et al. (2014)</b> <i>“I am borrowing ya mixing ?” An Analysis of English-Hindi Code Mixing in Facebook</i>. Proceedings of The First Workshop on Computational Approaches to Code Switching <a href="https://www.aclweb.org/anthology/W14-3914.pdf">[Paper]</a>
 
+### Toolkit
+#### Synthetic Data Generation Toolkit
+- <b>Jayanthi, et al. (2021)</b> <i>CodemixedNLP: An Extensible and Open NLP Toolkit for Code-Mixing</i> <a href="https://www.aclweb.org/anthology/2021.calcs-1.14.pdf">[Paper]</a> <a href="https://github.com/murali1996/CodemixedNLP">[Code]</a>
+- <b>Rizvi, et al. (2021)</b> <i>GCM: A Toolkit for Generating Synthetic Code-mixed Text</i>. EACL (System Demonstrations) <a href="https://www.aclweb.org/anthology/2021.eacl-demos.24.pdf">[Paper]</a> <a href="https://github.com/microsoft/CodeMixed-Text-Generator">[Code]</a>
+
+#### Annotation Toolkit
+- <b>Shah, et al. (2019)</b> <i>CoSSAT: Code-Switched Speech Annotation Tool</i>. Proceedings of the First Workshop on Aggregating and Analysing Crowdsourced Annotations for NLP <a href="https://www.aclweb.org/anthology/D19-5907.pdf">[Paper]</a>
+
 ### Corpus
 - <b>Umapathy, et al. (2020)</b> <i>Investigating Modelling Techniques for Natural Language Inference on Code-Switched Dialogues in Bollywood Movies</i>. First Workshop on Speech Technologies for Code-switching in Multilingual Communities, Interspeech 2020 <a href="https://aka.ms/CodeMixedNLI">[Dataset]</a>
 - <b>Xiang, et al. (2020)</b> <i>Sina Mandarin Alphabetical Words:A Web-driven Code-mixing Lexical Resource</i>. AACL-IJCNLP <a href="">[TBC]</a>
@@ -170,9 +178,6 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 #### Dialog and Conversational System
 - <b>Bawa, et al. (2020)</b> <i>Do Multilingual Users Prefer Chat-bots that Code-mix? Let's Nudge and Find Out!</i>. ACM on Human-Computer Interaction <a href="https://dl.acm.org/doi/pdf/10.1145/3392846">[Paper]</a>
 - <b>Banerjee, et al. (2018)</b> <i>A Dataset for Building Code-Mixed Goal Oriented Conversation Systems</i>. COLING <a href="https://arxiv.org/pdf/1806.05997.pdf">[Paper]</a>
-
-#### Annotation Tool
-- <b>Shah, et al. (2019)</b> <i>CoSSAT: Code-Switched Speech Annotation Tool</i>. Proceedings of the First Workshop on Aggregating and Analysing Crowdsourced Annotations for NLP <a href="https://www.aclweb.org/anthology/D19-5907.pdf">[Paper]</a>
 
 ### Survey Paper
 - <b>Jose, et al. (2020)</b> <i>A Survey of Current Datasets for Code-Switching Research</i>. International Conference on Advanced Computing and Communication Systems (ICACCS) <a href="https://ieeexplore.ieee.org/document/9074205">[Paper]</a>
