@@ -125,6 +125,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Gumperz, J. J., & Hernandez, E. (1969)</b> <i>Cognitive aspects of bilingual communication</i>. Institute of International Studies, University of California <a href="https://files.eric.ed.gov/fulltext/ED138103.pdf">[Paper]</a>
 
 ### Affective Computing
+- <b>Chakravarthi, et al. (2021)</b> <i>DravidianCodeMix: Sentiment Analysis and Offensive Language Identification Dataset for Dravidian Languages in Code-Mixed Text</i>. Arxiv <a href="https://arxiv.org/pdf/2106.09460.pdf">[Paper]</a> <a href="https://github.com/bharathichezhiyan/DravidianCodeMix-Dataset">[Code and Dataset]</a>
 - <b>Siddharth Yadav (2020)</b> <i>Unsupervised Sentiment Analysis for Code-mixed Data</i>. <a href="https://arxiv.org/pdf/2001.11384.pdf">[Paper] <a href="https://github.com/sedflix/unsacmt">[Code]</a>
 - <b>Wang, et al. (2017)</b> <i>Emotion Analysis in Code-Switching Text With Joint Factor Graph Model</i>. IEEE/ACM Transactions on Audio, Speech, and Language Processing <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7776833">[Paper]</a>
 - <b>Wang, et al. (2016)</b> <i>A Bilingual Attention Network for Code-switched Emotion Prediction</i>. COLING <a href="https://www.aclweb.org/anthology/C16-1153.pdf">[Paper]</a>
