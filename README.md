@@ -148,14 +148,17 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 
 ### Benchmark
 - <b>Khanuja, et al. (2020)</b> <i>GLUECoS : An Evaluation Benchmark for Code-Switched NLP</i>. ACL <a href="https://arxiv.org/pdf/2004.12376.pdf">[Paper]</a>
-- <b>Aguilar, et al. (2020)</b> <i>LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation</i>. LREC <a href="">[Paper]</a>
+- <b>Aguilar, et al. (2020)</b> <i>LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation</i>. LREC <a href="https://www.aclweb.org/anthology/2020.lrec-1.223.pdf">[Paper]</a>
 
 ### Social Media
 - <b>Bali, et al. (2014)</b> <i>“I am borrowing ya mixing ?” An Analysis of English-Hindi Code Mixing in Facebook</i>. Proceedings of The First Workshop on Computational Approaches to Code Switching <a href="https://www.aclweb.org/anthology/W14-3914.pdf">[Paper]</a>
 
+### Text Normalization
+- <b>Dwija Parikh and Thamar Solorio (2021)</b> <i>Normalization and Back-Transliteration for Code­Switched Data</i>. CALCS Proceedings of the 5th Workshop on Computational Approaches to Code Switching (CALCS), NAACL <a href="https://www.aclweb.org/anthology/2021.calcs-1.15.pdf">[Paper]</a>
+
 ### Toolkit
 #### Synthetic Data Generation Toolkit
-- <b>Jayanthi, et al. (2021)</b> <i>CodemixedNLP: An Extensible and Open NLP Toolkit for Code-Mixing</i> <a href="https://www.aclweb.org/anthology/2021.calcs-1.14.pdf">[Paper]</a> <a href="https://github.com/murali1996/CodemixedNLP">[Code]</a>
+- <b>Jayanthi, et al. (2021)</b> <i>CodemixedNLP: An Extensible and Open NLP Toolkit for Code-Mixing</i>. CALCS Proceedings of the 5th Workshop on Computational Approaches to Code Switching (CALCS), NAACL <a href="https://www.aclweb.org/anthology/2021.calcs-1.14.pdf">[Paper]</a> <a href="https://github.com/murali1996/CodemixedNLP">[Code]</a>
 - <b>Rizvi, et al. (2021)</b> <i>GCM: A Toolkit for Generating Synthetic Code-mixed Text</i>. EACL (System Demonstrations) <a href="https://www.aclweb.org/anthology/2021.eacl-demos.24.pdf">[Paper]</a> <a href="https://github.com/microsoft/CodeMixed-Text-Generator">[Code]</a>
 
 #### Annotation Toolkit
