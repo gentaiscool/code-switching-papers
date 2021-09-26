@@ -190,4 +190,4 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Caciullos and Travis (2018)</b> <i>Bilingualism in the Community</i>. Cambridge University Press
 
 ## Theses
-- To be added
+- <b>Genta Indra Winata (2021)</b> <i>Multilingual Transfer Learning for Code-Switched Language and Speech Neural Modeling</i>. Thesis <a href="https://arxiv.org/pdf/2104.06268.pdf">[Paper]</a>
