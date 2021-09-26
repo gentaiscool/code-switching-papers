@@ -192,3 +192,4 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 ## Theses
 - <b>Genta Indra Winata (2021)</b> <i>Multilingual Transfer Learning for Code-Switched Language and Speech Neural Modeling</i>. <a href="https://arxiv.org/pdf/2104.06268.pdf">[Thesis]</a>
 - <b>Gustavo Aguilar (2020)</b> <i>Neural Sequence Labeling on Social Media Text</i>. <a href="https://uh-ir.tdl.org/bitstream/handle/10657/7726/AGUILAR-DISSERTATION-2020.pdf?sequence=1&isAllowed=y">[Thesis]</a>
+- <b>Victor Soto Martinez (2020)</b> <i>Identifying and Modeling Code-Switched Language</i>. <a href="http://www.cs.columbia.edu/speech/ThesisFiles/victor_soto.pdf">[Thesis]</a>
