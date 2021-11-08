@@ -175,6 +175,9 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Lyu, et al. (2010)</b> <i>SEAME: A Mandarin-English Code-Switching Speech Corpus in South-East Asia</i>. Interspeech <a href="https://pdfs.semanticscholar.org/de83/7c40f54125ce9c612c143ebc6c9ca5e84b13.pdf">[Paper]</a>
 - <b>Lyu, et al. (2010)</b> <i>An Analysis of a Mandarin-English Code-switching Speech Corpus: SEAME</i>. Age <a href="https://www.researchgate.net/profile/Tien_Ping_Tan/publication/266890986_An_Analysis_of_a_Mandarin-English_Code-switching_Speech_Corpus_SEAME/links/54cb12f80cf2517b7560ffbb.pdf">[Paper]</a>
 
+#### Summarization
+- <b>Mehnaz, et al. (2021)</b> <i>GupShup: Summarizing Open-Domain Code-Switched Conversations</i>. EMNLP <a href="https://aclanthology.org/2021.emnlp-main.499.pdf"></a>
+
 #### Question Answering
 - <b>Gupta, et al. (2020)</b> <i>A Unified Framework for Multilingual and Code-Mixed Visual Question Answering</i>. AACL-IJCNLP <a href="">[TBA]</a>
 
