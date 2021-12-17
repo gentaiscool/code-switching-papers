@@ -102,6 +102,9 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 - <b>Vivek Srivastava and Mayank Singh (2020)</b> <i>PHINC: A Parallel Hinglish Social Media Code-Mixed Corpus for Machine Translation</i>. W-NUT, EMNLP <a href="http://noisy-text.github.io/2020/pdf/2020.d200-1.7.pdf">[Paper]</a> <a href="https://zenodo.org/record/3605597#.X5rwWXgzZQI">[Dataset]</a>
 - <b>Thoudam Doren Singh and Thamar Solorio. (2017)</b> <i>Towards Translating Mixed-Code Comments from Social Media</i>. CICLing <a href="https://link.springer.com/chapter/10.1007/978-3-319-77116-8_34">[Paper]</a>
 
+### NLU
+- <b>Krishnan, et al. (2021)</b> <i>Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling</i>. MRL, EMNLP <a href="https://aclanthology.org/2021.mrl-1.18.pdf">[Paper]</a>
+
 ### Named Entity Recognition
 - <b>Priyadharshini, et al. (2020)</b> <i>Named Entity Recognition for Code-Mixed Indian Corpus using Meta Embedding</i>. 6th International Conference on Advanced Computing and Communication Systems (ICACCS) <a href="https://ieeexplore.ieee.org/abstract/document/9074379">[Paper]</a>
 - <b>Winata, et al. (2019)</b> <i>Learning Multilingual Meta-Embeddings for Code-Switching Named Entity Recognition</i>. RepL4NLP, ACL <a href="https://www.aclweb.org/anthology/W19-4320">[Paper]</a> <a href="https://github.com/gentaiscool/meta-emb">[Code]</a>
