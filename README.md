@@ -33,6 +33,19 @@ This is the list of the code-switching workshop series:
 - <b>Thamar Solorio and Yang Liu. (2008)</b> <i>Learning to Predict Code-Switching Points</i>. EMNLP <a href="http://www.aclweb.org/anthology/D08-1102">[Paper]</a>
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
+## Corpus
+- <b>Lovenia, et al. (2021)</b> <i>ASCEND: A Spontaneous Chinese-English Dataset for Code-switching in Multi-turn Conversation</i>. Arxiv <a href="https://arxiv.org/pdf/2112.06223.pdf">[Paper]</a> <a href="https://huggingface.co/datasets/CAiRE/ASCEND">[Dataset]</a>
+- <b>Umapathy, et al. (2020)</b> <i>Investigating Modelling Techniques for Natural Language Inference on Code-Switched Dialogues in Bollywood Movies</i>. First Workshop on Speech Technologies for Code-switching in Multilingual Communities, Interspeech 2020 <a href="https://aka.ms/CodeMixedNLI">[Dataset]</a>
+- <b>Xiang, et al. (2020)</b> <i>Sina Mandarin Alphabetical Words:A Web-driven Code-mixing Lexical Resource</i>. AACL-IJCNLP <a href="">[TBC]</a>
+- <b>Chakravarthi, et al. (2020)</b> <i>Corpus Creation for Sentiment Analysis in Code-Mixed Tamil-English Text</i>. Spoken Language Technologies for Under-resourced languages) and CCURL (Collaboration and Computing for Under-Resourced Languages Workshop, LREC <a href="https://arxiv.org/pdf/2006.00206.pdf">[Paper]</a>
+- <b>Khanuja, et al. (2020)</b> <i>A New Dataset for Natural Language Inference from Code-mixed Conversations</i>. 4th Workshop of Computational Approaches to Linguistic Code-switching, LREC <a href="https://arxiv.org/abs/2004.05051">[Paper]</a>
+- <b>Barik, et al. (2019)</b> <i>Normalization of Indonesian-English Code-Mixed Twitter Data</i>. W-NUT, EMNLP <a href="https://www.aclweb.org/anthology/D19-5554.pdf">[Paper]</a> <a href="https://github.com/seelenbrecher/code-mixed-normalization">[Dataset]</a>
+- <b>Singh, et al. (2018)</b> <i>A Twitter Corpus for Hindi-English Code Mixed POS Tagging</i>. Sixth International Workshop on Natural Language Processing for Social Media, ACL <a href="http://aclweb.org/anthology/W18-3503">[Paper]</a>
+- <b>Li, et al. (2012)</b> <i>A Mandarin-English Code-Switching Corpus</i>. LREC <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/964_Paper.pdf">[Paper]</a>
+- <b>Lyu, et al. (2010)</b> <i>SEAME: A Mandarin-English Code-Switching Speech Corpus in South-East Asia</i>. Interspeech <a href="https://pdfs.semanticscholar.org/de83/7c40f54125ce9c612c143ebc6c9ca5e84b13.pdf">[Paper]</a>
+- <b>Lyu, et al. (2010)</b> <i>An Analysis of a Mandarin-English Code-switching Speech Corpus: SEAME</i>. Age <a href="https://www.researchgate.net/profile/Tien_Ping_Tan/publication/266890986_An_Analysis_of_a_Mandarin-English_Code-switching_Speech_Corpus_SEAME/links/54cb12f80cf2517b7560ffbb.pdf">[Paper]</a>
+
+
 ## Language Modeling and Speech Recognition
 - <b>Kumar, et al. (2020)</b> <i>Machine Learning based Language Modelling of Code Switched Data</i>. International Conference on Electronics and Sustainable Communication Systems (ICESC) <a href="https://ieeexplore.ieee.org/abstract/document/9155695">[Paper]</a>
 - <b>Madhumani, et al. (2020)</b> <i>Learning not to Discriminate: Task Agnostic Learning for Improving Monolingual and Code-switched Speech Recognition</i>. Arxiv <a href="https://arxiv.org/pdf/2006.05257.pdf">[Paper]</a>
@@ -167,17 +180,6 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 
 #### Annotation Toolkit
 - <b>Shah, et al. (2019)</b> <i>CoSSAT: Code-Switched Speech Annotation Tool</i>. Proceedings of the First Workshop on Aggregating and Analysing Crowdsourced Annotations for NLP <a href="https://www.aclweb.org/anthology/D19-5907.pdf">[Paper]</a>
-
-### Corpus
-- <b>Umapathy, et al. (2020)</b> <i>Investigating Modelling Techniques for Natural Language Inference on Code-Switched Dialogues in Bollywood Movies</i>. First Workshop on Speech Technologies for Code-switching in Multilingual Communities, Interspeech 2020 <a href="https://aka.ms/CodeMixedNLI">[Dataset]</a>
-- <b>Xiang, et al. (2020)</b> <i>Sina Mandarin Alphabetical Words:A Web-driven Code-mixing Lexical Resource</i>. AACL-IJCNLP <a href="">[TBC]</a>
-- <b>Chakravarthi, et al. (2020)</b> <i>Corpus Creation for Sentiment Analysis in Code-Mixed Tamil-English Text</i>. Spoken Language Technologies for Under-resourced languages) and CCURL (Collaboration and Computing for Under-Resourced Languages Workshop, LREC <a href="https://arxiv.org/pdf/2006.00206.pdf">[Paper]</a>
-- <b>Khanuja, et al. (2020)</b> <i>A New Dataset for Natural Language Inference from Code-mixed Conversations</i>. 4th Workshop of Computational Approaches to Linguistic Code-switching, LREC <a href="https://arxiv.org/abs/2004.05051">[Paper]</a>
-- <b>Barik, et al. (2019)</b> <i>Normalization of Indonesian-English Code-Mixed Twitter Data</i>. W-NUT, EMNLP <a href="https://www.aclweb.org/anthology/D19-5554.pdf">[Paper]</a> <a href="https://github.com/seelenbrecher/code-mixed-normalization">[Dataset]</a>
-- <b>Singh, et al. (2018)</b> <i>A Twitter Corpus for Hindi-English Code Mixed POS Tagging</i>. Sixth International Workshop on Natural Language Processing for Social Media, ACL <a href="http://aclweb.org/anthology/W18-3503">[Paper]</a>
-- <b>Li, et al. (2012)</b> <i>A Mandarin-English Code-Switching Corpus</i>. LREC <a href="http://www.lrec-conf.org/proceedings/lrec2012/pdf/964_Paper.pdf">[Paper]</a>
-- <b>Lyu, et al. (2010)</b> <i>SEAME: A Mandarin-English Code-Switching Speech Corpus in South-East Asia</i>. Interspeech <a href="https://pdfs.semanticscholar.org/de83/7c40f54125ce9c612c143ebc6c9ca5e84b13.pdf">[Paper]</a>
-- <b>Lyu, et al. (2010)</b> <i>An Analysis of a Mandarin-English Code-switching Speech Corpus: SEAME</i>. Age <a href="https://www.researchgate.net/profile/Tien_Ping_Tan/publication/266890986_An_Analysis_of_a_Mandarin-English_Code-switching_Speech_Corpus_SEAME/links/54cb12f80cf2517b7560ffbb.pdf">[Paper]</a>
 
 #### Summarization
 - <b>Mehnaz, et al. (2021)</b> <i>GupShup: Summarizing Open-Domain Code-Switched Conversations</i>. EMNLP <a href="https://aclanthology.org/2021.emnlp-main.499.pdf"></a>
