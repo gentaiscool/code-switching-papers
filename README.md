@@ -155,7 +155,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Sravani, et al. (2021)</b> <i>Political Discourse Analysis: A Case Study of Code Mixing and Code Switching in Political Speeches</i>. CALCS Proceedings of the 5th Workshop on Computational Approaches to Code Switching (CALCS), NAACL <a href="https://www.aclweb.org/anthology/2021.calcs-1.1.pdf">[Paper]</a>
 
 ### Syntax
-- <b>Kodali, et al. (2022)</b> <i>SyMCoM - Syntactic Measure of Code Mixing A Study Of English-Hindi Code-Mixing</i>. ACL <a href="https://aclanthology.org/2022.findings-acl.40.pdf">[Paper]</a>
+- <b>Kodali, et al. (2022)</b> <i>SyMCoM - Syntactic Measure of Code Mixing A Study Of English-Hindi Code-Mixing</i>. Findings of ACL <a href="https://aclanthology.org/2022.findings-acl.40.pdf">[Paper]</a>
 - <b>Özlem Çetinoglu and Çagrı Çöltekin (2019)</b> <i>Challenges of Annotating a Code-Switching Treebank</i>. SyntaxFest <a href="https://syntaxfest.github.io/syntaxfest19/proceedings/papers/paper_83.pdf">[Paper]</a>
 
 ### Adversarial Attack
