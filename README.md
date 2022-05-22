@@ -19,6 +19,7 @@ This is the list of the code-switching workshop series:
 ## 📑 Research Papers
 
 ### Language Identification and POS Tagging
+- <b>Ostapenko, et al. (2022)</b> <i>Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching</i>. ACL <a href="https://aclanthology.org/2022.acl-long.267.pdf">[Paper]</a>
 - <b>Gustavo Aguilar and Thamar Solorio. (2020)</b> <i>From English to Code-Switching: Transfer Learning with Strong Morphological Clues</i>. ACL <a href="https://arxiv.org/pdf/1909.05158.pdf">[Paper]</a> <a href="https://github.com/gaguilar/cs_elmo">[Code]</a>
 - <b>Mager, et al. (2019)</b> <i>Subword-Level Language Identification for Intra-Word Code-Switching</i>. NAACL <a href="https://arxiv.org/abs/1904.01989">[Paper]</a>
 - <b>Zhang, et al. (2018)</b> <i>A Fast, Compact, Accurate Model for Language Identification of Codemixed Text</i>. EMNLP <a href="https://aclanthology.org/D18-1030.pdf">[Paper]</a>
@@ -154,6 +155,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Sravani, et al. (2021)</b> <i>Political Discourse Analysis: A Case Study of Code Mixing and Code Switching in Political Speeches</i>. CALCS Proceedings of the 5th Workshop on Computational Approaches to Code Switching (CALCS), NAACL <a href="https://www.aclweb.org/anthology/2021.calcs-1.1.pdf">[Paper]</a>
 
 ### Syntax
+- <b>Kodali, et al. (2022)</b> <i>SyMCoM - Syntactic Measure of Code Mixing A Study Of English-Hindi Code-Mixing</i>. ACL <a href="https://aclanthology.org/2022.findings-acl.40.pdf">[Paper]</a>
 - <b>Özlem Çetinoglu and Çagrı Çöltekin (2019)</b> <i>Challenges of Annotating a Code-Switching Treebank</i>. SyntaxFest <a href="https://syntaxfest.github.io/syntaxfest19/proceedings/papers/paper_83.pdf">[Paper]</a>
 
 ### Adversarial Attack
