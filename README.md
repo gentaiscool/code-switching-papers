@@ -20,6 +20,7 @@ This is the list of the code-switching workshop series:
 
 ### Language Identification and POS Tagging
 - <b>Ostapenko, et al. (2022)</b> <i>Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching</i>. ACL <a href="https://aclanthology.org/2022.acl-long.267.pdf">[Paper]</a>
+- <b>Tarunesh, et al. (2021)</b> <i>From machine translation to code-switching: Generating high-quality code-switched text</i>. ACL <a href="https://aclanthology.org/2021.acl-long.245/">[Paper]</a>
 - <b>Gustavo Aguilar and Thamar Solorio. (2020)</b> <i>From English to Code-Switching: Transfer Learning with Strong Morphological Clues</i>. ACL <a href="https://arxiv.org/pdf/1909.05158.pdf">[Paper]</a> <a href="https://github.com/gaguilar/cs_elmo">[Code]</a>
 - <b>Mager, et al. (2019)</b> <i>Subword-Level Language Identification for Intra-Word Code-Switching</i>. NAACL <a href="https://arxiv.org/abs/1904.01989">[Paper]</a>
 - <b>Zhang, et al. (2018)</b> <i>A Fast, Compact, Accurate Model for Language Identification of Codemixed Text</i>. EMNLP <a href="https://aclanthology.org/D18-1030.pdf">[Paper]</a>
