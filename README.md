@@ -20,6 +20,7 @@ This is the list of the code-switching workshop series:
 
 ### Language Identification and POS Tagging
 - <b>Ostapenko, et al. (2022)</b> <i>Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching</i>. ACL <a href="https://aclanthology.org/2022.acl-long.267.pdf">[Paper]</a>
+- <b>Nguyen, et al. (2021)</b> <i>Automatic Language Identification in Code-Switched Hindi-English Social Media Text</i>. Journal of Open Humanities Data <a href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.44/">[Paper]</a>
 - <b>Tarunesh, et al. (2021)</b> <i>From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text</i>. ACL <a href="https://aclanthology.org/2021.acl-long.245.pdf">[Paper]</a>
 - <b>Gustavo Aguilar and Thamar Solorio. (2020)</b> <i>From English to Code-Switching: Transfer Learning with Strong Morphological Clues</i>. ACL <a href="https://arxiv.org/pdf/1909.05158.pdf">[Paper]</a> <a href="https://github.com/gaguilar/cs_elmo">[Code]</a>
 - <b>Mager, et al. (2019)</b> <i>Subword-Level Language Identification for Intra-Word Code-Switching</i>. NAACL <a href="https://arxiv.org/abs/1904.01989">[Paper]</a>
@@ -38,6 +39,7 @@ This is the list of the code-switching workshop series:
 
 ## Corpus
 - <b>Lovenia, et al. (2021)</b> <i>ASCEND: A Spontaneous Chinese-English Dataset for Code-switching in Multi-turn Conversation</i>. Arxiv <a href="https://arxiv.org/pdf/2112.06223.pdf">[Paper]</a> <a href="https://huggingface.co/datasets/CAiRE/ASCEND">[Dataset]</a>
+- <b>Nguyen, et al. (2020)</b> <i>CanVEC-the Canberra Vietnamese-English Code-switching Natural Speech Corpus</i>. LREC <a href="https://aclanthology.org/2020.lrec-1.507.pdf">[Paper]</a>
 - <b>Umapathy, et al. (2020)</b> <i>Investigating Modelling Techniques for Natural Language Inference on Code-Switched Dialogues in Bollywood Movies</i>. First Workshop on Speech Technologies for Code-switching in Multilingual Communities, Interspeech 2020 <a href="https://aka.ms/CodeMixedNLI">[Dataset]</a>
 - <b>Xiang, et al. (2020)</b> <i>Sina Mandarin Alphabetical Words:A Web-driven Code-mixing Lexical Resource</i>. AACL-IJCNLP <a href="">[TBC]</a>
 - <b>Chakravarthi, et al. (2020)</b> <i>Corpus Creation for Sentiment Analysis in Code-Mixed Tamil-English Text</i>. Spoken Language Technologies for Under-resourced languages) and CCURL (Collaboration and Computing for Under-Resourced Languages Workshop, LREC <a href="https://arxiv.org/pdf/2006.00206.pdf">[Paper]</a>
@@ -196,6 +198,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Banerjee, et al. (2018)</b> <i>A Dataset for Building Code-Mixed Goal Oriented Conversation Systems</i>. COLING <a href="https://arxiv.org/pdf/1806.05997.pdf">[Paper]</a>
 
 ### Survey Paper
+- <b>Nguyen, et al. (2022)</b> <i>Building Educational Technologies for Code-Switching: Current Practices, Difficulties and Future Directions</i>. Languages <a href="https://www.mdpi.com/2226-471X/7/3/220/pdf?version=1660898944">[Paper]</a>
 - <b>Jose, et al. (2020)</b> <i>A Survey of Current Datasets for Code-Switching Research</i>. International Conference on Advanced Computing and Communication Systems (ICACCS) <a href="https://ieeexplore.ieee.org/document/9074205">[Paper]</a>
 - <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i>. Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
 
