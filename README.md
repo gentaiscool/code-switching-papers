@@ -133,6 +133,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Aguilar, et al. (2017)</b> <i>A Multi-task Approach for Named Entity Recognition in Social Media Data</i>. 3rd Workshop on Noisy User-generated Text, EMNLP <a href="http://www.aclweb.org/anthology/W17-4419">[Paper]</a>
 
 ### Linguistics
+- <b>Li Nyuyen. (2018)</b> <i>Borrowing or Code-switching? Traces of community norms in Vietnamese-English speech.</i> Australian Journal of Linguistics 38.4 (2018): 443-466. <a href="https://www.tandfonline.com/doi/abs/10.1080/07268602.2018.1510727">[Paper]</a>
 - <b>Fairchild, Sarah, and Janet G. Van Hell. (2017)</b> <i>Determiner-noun code-switching in Spanish heritage speakers.</i> Bilingualism: Language and Cognition 20.1 (2017): 150-161. <a href="https://www.researchgate.net/profile/Janet_Van_Hell/publication/282895015_Determiner-noun_code-switching_in_Spanish_heritage_speakers/links/5891e94ba6fdcc1b41469634/Determiner-noun-code-switching-in-Spanish-heritage-speakers.pdf">[Paper]</a>
 - <b>Bhatt, Rakesh M., and Agnes Bolonyai. (2011)</b> <i>Code-switching and the optimal grammar of bilingual language use.</i> Bilingualism: Language and Cognition 14.4 (2011): 522-546. <a href="https://s3.amazonaws.com/academia.edu.documents/38571919/BLC-Bhatt-Bolonyai.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1540209279&Signature=srQ%2B9cKb1LdK4qgUtuGJ1zG3Wa4%3D&response-content-disposition=inline%3B%20filename%3DCode-switching_and_the_optimal_grammar_o.pdf">[Paper]</a>
 - <b>Lipski (2005)</b> <i>Code-switching or Borrowing? No sé so no puedo decir, you know.</i> Second Workshop on Spanish Sociolinguistics <a href="http://commonweb.unifr.ch/artsdean/pub/gestens/f/as/files/4740/21370_065330.pdf">[Paper]</a>
@@ -198,10 +199,11 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Banerjee, et al. (2018)</b> <i>A Dataset for Building Code-Mixed Goal Oriented Conversation Systems</i>. COLING <a href="https://arxiv.org/pdf/1806.05997.pdf">[Paper]</a>
 
 ### Survey Paper
-- <b>Nguyen, et al. (2022)</b> <i>Building Educational Technologies for Code-Switching: Current Practices, Difficulties and Future Directions</i>. Languages <a href="https://www.mdpi.com/2226-471X/7/3/220/pdf?version=1660898944">[Paper]</a>
 - <b>Jose, et al. (2020)</b> <i>A Survey of Current Datasets for Code-Switching Research</i>. International Conference on Advanced Computing and Communication Systems (ICACCS) <a href="https://ieeexplore.ieee.org/document/9074205">[Paper]</a>
 - <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i>. Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
 
+### Position Paper
+- <b>Nguyen, et al. (2022)</b> <i>Building Educational Technologies for Code-Switching: Current Practices, Difficulties and Future Directions</i>. Languages <a href="https://www.mdpi.com/2226-471X/7/3/220/pdf?version=1660898944">[Paper]</a>
 ## Books
 - <b>Caciullos and Travis (2018)</b> <i>Bilingualism in the Community</i>. Cambridge University Press
 
