@@ -1,11 +1,14 @@
 # Code-switching Research Resources
 This is the list of tutorials, workshops, papers, and resources on computational linguistic approaches to code-switching research. 
-The list will be updated over the time. You are welcome to send a pull request for updating the list and be one of the contributors! 🚀
+The list will be updated over the time. You are welcome to send a pull request for updating the list and be one of the contributors! 
 
 📌 I plan to collect theses and books on code-switching and list them here. If you have one, don't hesitate to contact me or send a pull request! 
 
-## 📔 Tutorials
-There was a comprehensive tutorial about code-mixing by Microsoft Research (Monojit Choudhury, Kalika Bali, Anirudh Srinivasan, and Sandipan Dandapat) at EMNLP 2019, you can check the following <a href="https://genius1237.github.io/emnlp19_tut/">link</a>.
+## 🚀 Highlights
+- If you are new on code-switching or looking for a new research direction, we have written a comprehensive survey paper on code-switching: <b>The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges</b> <a href="https://arxiv.org/pdf/2212.09660.pdf">[Paper]</a>. Feel free to read and let us know if you have any suggestions! Thanks to Alham Fikri Aji, Zheng-Xin Yong, and Thamar Solorio to make this possible 😊
+- <b>[Upcoming]</b> We are organizing the code-switching workshop at EMNLP 2023! Stay tuned!
+- We (I, Marina Zhukova, and Sudipta Kar) organized a bird-of-a-feather session at EMNLP 2022 in Abu Dhabi. We have around 30 people joining (in-person and online). Thanks for coming!
+- 📔 There was a comprehensive tutorial about code-mixing by Microsoft Research (Monojit Choudhury, Kalika Bali, Anirudh Srinivasan, and Sandipan Dandapat) at EMNLP 2019, you can check the following <a href="https://genius1237.github.io/emnlp19_tut/">link</a>.
 
 ## 🏫 Workshops
 This is the list of the code-switching workshop series:
@@ -198,14 +201,15 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Bawa, et al. (2020)</b> <i>Do Multilingual Users Prefer Chat-bots that Code-mix? Let's Nudge and Find Out!</i>. ACM on Human-Computer Interaction <a href="https://dl.acm.org/doi/pdf/10.1145/3392846">[Paper]</a>
 - <b>Banerjee, et al. (2018)</b> <i>A Dataset for Building Code-Mixed Goal Oriented Conversation Systems</i>. COLING <a href="https://arxiv.org/pdf/1806.05997.pdf">[Paper]</a>
 
-### Survey Paper
-- <b>Jose, et al. (2020)</b> <i>A Survey of Current Datasets for Code-Switching Research</i>. International Conference on Advanced Computing and Communication Systems (ICACCS) <a href="https://ieeexplore.ieee.org/document/9074205">[Paper]</a>
-- <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i>. Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
-
 ### Position Paper
 - <b>Nguyen, et al. (2022)</b> <i>Building Educational Technologies for Code-Switching: Current Practices, Difficulties and Future Directions</i>. Languages <a href="https://www.mdpi.com/2226-471X/7/3/220/pdf?version=1660898944">[Paper]</a>
 ## Books
 - <b>Caciullos and Travis (2018)</b> <i>Bilingualism in the Community</i>. Cambridge University Press
+
+### Survey Paper
+- <b>Winata, et al. (2022)</b> <i>The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges </i>. Arxiv <a href="https://arxiv.org/pdf/2212.09660.pdf">[Paper]</a>
+- <b>Jose, et al. (2020)</b> <i>A Survey of Current Datasets for Code-Switching Research</i>. International Conference on Advanced Computing and Communication Systems (ICACCS) <a href="https://ieeexplore.ieee.org/document/9074205">[Paper]</a>
+- <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i>. Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
 
 ## Theses
 - <b>Genta Indra Winata (2021)</b> <i>Multilingual Transfer Learning for Code-Switched Language and Speech Neural Modeling</i>. <a href="https://arxiv.org/pdf/2104.06268.pdf">[Thesis]</a>
