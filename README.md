@@ -41,6 +41,7 @@ This is the list of the code-switching workshop series:
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
 ## Corpus
+- <b>Whitehouse, et al. (2022)</b> <i>EntityCS: Improving Zero-Shot Cross-lingual Transfer with Entity-Centric Code Switching</i>. EMNLP <a href="https://arxiv.org/pdf/2210.12540.pdf">[Paper]</a> <a href="https://github.com/huawei-noah/noah-research/tree/master/NLP">[Code]</a>
 - <b>Lovenia, et al. (2022)</b> <i>ASCEND: A Spontaneous Chinese-English Dataset for Code-switching in Multi-turn Conversation</i>. LREC <a href="https://arxiv.org/pdf/2112.06223.pdf">[Paper]</a> <a href="https://huggingface.co/datasets/CAiRE/ASCEND">[Dataset]</a>
 - <b>Nguyen, et al. (2020)</b> <i>CanVEC-the Canberra Vietnamese-English Code-switching Natural Speech Corpus</i>. LREC <a href="https://aclanthology.org/2020.lrec-1.507.pdf">[Paper]</a>
 - <b>Umapathy, et al. (2020)</b> <i>Investigating Modelling Techniques for Natural Language Inference on Code-Switched Dialogues in Bollywood Movies</i>. First Workshop on Speech Technologies for Code-switching in Multilingual Communities, Interspeech 2020 <a href="https://aka.ms/CodeMixedNLI">[Dataset]</a>
