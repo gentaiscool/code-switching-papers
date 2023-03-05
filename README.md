@@ -104,6 +104,7 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 
 ### Generation
 - <b>Gupta, et al. (2020)</b> <i>A Semi-supervised Approach to Generate the Code-Mixed Text using Pre-trained Encoder and Transfer Learning</i>. Findings of EMNLP <a href="https://www.aclweb.org/anthology/2020.findings-emnlp.206.pdf">[Paper]</a>
+- <b>Bryan Gregorius and Takeshi Okadome (2022)</b> <i>Generating Code-Switched Text from Monolingual Text with Dependency Tree</i>. The 20th Annual Workshop of the Australasian Language Technology Association <a href="https://aclanthology.org/2022.alta-1.12/">[Paper]</a> <a href="https://github.com/Selubi/CSify">[Code]</a>
 
 ### Speech Synthesis
 - <b>Sai Krishna Rallabandi and Alan W Black (2019)</b> <i>Variational Attention using Articulatory Priors for generating Code Mixed Speech using Monolingual Corpora</i>. Interspeech <a href="https://pdfs.semanticscholar.org/5e74/c4c5688a24248a9bd04aa0474c28bc267ba5.pdf">[Paper]</a>
