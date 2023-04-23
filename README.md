@@ -21,6 +21,9 @@ This is the list of the code-switching workshop series:
 
 ## 📑 Research Papers
 
+### Large-Language Models
+- <b>Yong, et al. (2023)</b> <i>Prompting Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages</i>. Arxiv <a href="https://arxiv.org/pdf/2303.13592.pdf">[Paper]</a>
+
 ### Language Identification and POS Tagging
 - <b>Ostapenko, et al. (2022)</b> <i>Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching</i>. ACL <a href="https://aclanthology.org/2022.acl-long.267.pdf">[Paper]</a>
 - <b>Nguyen, et al. (2021)</b> <i>Automatic Language Identification in Code-Switched Hindi-English Social Media Text</i>. Journal of Open Humanities Data <a href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.44/">[Paper]</a>
