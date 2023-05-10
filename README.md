@@ -22,6 +22,12 @@ This is the list of the code-switching workshop series:
 
 ## 📑 Research Papers
 
+### Survey Paper
+- <b>Winata, et al. (2023)</b> <i>The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges</i>. ACL Findings <a href="https://arxiv.org/pdf/2212.09660.pdf">[Paper]</a>
+- <b>Doğruöz, et al (2021)</b> <i>A Survey of Code-switching: Linguistic and Social Perspectives for Language Technologies</i>. ACL <a href="https://aclanthology.org/2021.acl-long.131.pdf">[Paper]</a>
+- <b>Jose, et al. (2020)</b> <i>A Survey of Current Datasets for Code-Switching Research</i>. International Conference on Advanced Computing and Communication Systems (ICACCS) <a href="https://ieeexplore.ieee.org/document/9074205">[Paper]</a>
+- <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i>. Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
+
 ### Large Language Models
 - <b>Yong, et al. (2023)</b> <i>Prompting Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages</i>. Arxiv <a href="https://arxiv.org/pdf/2303.13592.pdf">[Paper]</a>
 
@@ -212,11 +218,6 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Nguyen, et al. (2022)</b> <i>Building Educational Technologies for Code-Switching: Current Practices, Difficulties and Future Directions</i>. Languages <a href="https://www.mdpi.com/2226-471X/7/3/220/pdf?version=1660898944">[Paper]</a>
 ## Books
 - <b>Caciullos and Travis (2018)</b> <i>Bilingualism in the Community</i>. Cambridge University Press
-
-### Survey Paper
-- <b>Winata, et al. (2022)</b> <i>The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges </i>. Arxiv <a href="https://arxiv.org/pdf/2212.09660.pdf">[Paper]</a>
-- <b>Jose, et al. (2020)</b> <i>A Survey of Current Datasets for Code-Switching Research</i>. International Conference on Advanced Computing and Communication Systems (ICACCS) <a href="https://ieeexplore.ieee.org/document/9074205">[Paper]</a>
-- <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i>. Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
 
 ## Theses
 - <b>Genta Indra Winata (2021)</b> <i>Multilingual Transfer Learning for Code-Switched Language and Speech Neural Modeling</i>. <a href="https://arxiv.org/pdf/2104.06268.pdf">[Thesis]</a>
