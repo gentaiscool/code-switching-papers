@@ -66,6 +66,7 @@ This is the list of the code-switching workshop series:
 
 
 ## Language Modeling and Speech Recognition
+- <b>Tolúlopé, et al. (2023)</b> <i>Multilingual self-supervised speech representations improve the speech recognition of low-resource African languages with codeswitching</i>. Sixth Workshop on Computational Approaches to Linguistic Code-Switching. <a href="https://openreview.net/forum?id=mtrmzEoSRk">[Paper]</a>
 - <b>Kumar, et al. (2020)</b> <i>Machine Learning based Language Modelling of Code Switched Data</i>. International Conference on Electronics and Sustainable Communication Systems (ICESC) <a href="https://ieeexplore.ieee.org/abstract/document/9155695">[Paper]</a>
 - <b>Madhumani, et al. (2020)</b> <i>Learning not to Discriminate: Task Agnostic Learning for Improving Monolingual and Code-switched Speech Recognition</i>. Arxiv <a href="https://arxiv.org/pdf/2006.05257.pdf">[Paper]</a>
 - <b>Shah, et al. (2020)</b> <i>Learning to Recognize Code-switched Speech Without Forgetting Monolingual Speech Recognition</i>. Arxiv <a href="https://arxiv.org/pdf/2006.00782.pdf">[Paper]</a>
