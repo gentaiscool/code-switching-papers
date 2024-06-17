@@ -61,7 +61,7 @@ This is the list of the code-switching workshop series:
 - <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i>. Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
 
 ### Large Language Models
-- <b>Winata, et al. (2024)</b> <i>MINERS: Multilingual Language Models as Semantic Retrievers</i>. Arxiv <a href="https://arxiv.org/pdf/2406.07424">[Paper]</a>
+- <b>Winata, et al. (2024)</b> <i>MINERS: Multilingual Language Models as Semantic Retrievers</i>. Arxiv <a href="https://arxiv.org/pdf/2406.07424">[Paper]</a> <a href="https://github.com/gentaiscool/miners">[Code]</a>
 - <b>Yong, et al. (2023)</b> <i>Prompting Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages</i>. Arxiv <a href="https://arxiv.org/pdf/2303.13592.pdf">[Paper]</a>
 
 ### Language Identification and POS Tagging
@@ -99,6 +99,7 @@ This is the list of the code-switching workshop series:
 
 
 ### Language Modeling and Speech Recognition
+- <b>Yu, et al. (2023)</b> <i>Code-switching text generation and injection in mandarin-english asr</i>. ICASSP <a href="https://arxiv.org/pdf/2303.10949">[Paper]</a>
 - <b>Tolúlopé, et al. (2023)</b> <i>Multilingual self-supervised speech representations improve the speech recognition of low-resource African languages with codeswitching</i>. Sixth Workshop on Computational Approaches to Linguistic Code-Switching. <a href="https://openreview.net/forum?id=mtrmzEoSRk">[Paper]</a>
 - <b>Kumar, et al. (2020)</b> <i>Machine Learning based Language Modelling of Code Switched Data</i>. International Conference on Electronics and Sustainable Communication Systems (ICESC) <a href="https://ieeexplore.ieee.org/abstract/document/9155695">[Paper]</a>
 - <b>Madhumani, et al. (2020)</b> <i>Learning not to Discriminate: Task Agnostic Learning for Improving Monolingual and Code-switched Speech Recognition</i>. Arxiv <a href="https://arxiv.org/pdf/2006.05257.pdf">[Paper]</a>
