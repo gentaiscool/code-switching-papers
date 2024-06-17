@@ -4,9 +4,41 @@ The list will be updated over the time. You are welcome to send a pull request f
 
 📌 I plan to collect theses and books on code-switching and list them here. If you have one, don't hesitate to contact me or send a pull request! 
 
+## Table of Contents
+
+- [🚀 Highlights](#-highlights)
+- [🏫 Workshops](#-workshops)
+- [📑 Research Papers](#-research-papers)
+	- [Survey Paper](#survey-paper)
+  - [Large Language Models](#large-language-models)
+  - [Language Identification and POS Tagging](#language-identification-and-pos-tagging)
+  - [Corpus](#corpus)
+  - [Language Modeling and Speech Recognition](#language-modeling-and-speech-recognition)
+  - [Discourse](#discourse)
+  - [Generation](#generation)
+  - [Speech Synthesis](#speech-synthesis)
+  - [Metric](#metric)
+  - [Representation Learning](#representation-learning)
+  - [Machine Translation](#machine-translation)
+  - [Natural Language Understanding](#natural-language-understanding)
+  - [Named Entity Recognition](#named-entity-recognition)
+  - [Linguistics](#linguistics)
+  - [Affective Computing](#affective-computing)
+  - [Dialog and Conversational System](#dialog-and-conversational-system)
+  - [Discourse](#discourse)
+  - [Syntax](#syntax)
+  - [Adversarial Attack](#adversarial-attack)
+  - [Social Linguistics](#social-linguistics)
+  - [Benchmark](#benchmark)
+  - [Social Media](#social-media)
+  - [Text Normalization](#text-normalization)
+  - [Toolkit](#toolkit)
+- [Books](#books)
+- [Theses](#theses)
+
 ## 🚀 Highlights
 - If you are new on code-switching or looking for a new research direction, we have written a comprehensive survey paper on code-switching: <b>The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges</b> <a href="https://arxiv.org/pdf/2212.09660.pdf">[Paper]</a>. Feel free to read and let us know if you have any suggestions! Thanks to Alham Fikri Aji, Zheng-Xin Yong, and Thamar Solorio to make this possible 😊
-- We are organizing the code-switching workshop at EMNLP 2023! <a href="https://code-switching.github.io/2023">[Website]</a>
+- We organized the code-switching workshop at EMNLP 2023! <a href="https://code-switching.github.io/2023">[Website]</a>
 - We (I, Marina Zhukova, and Sudipta Kar) organized a bird-of-a-feather session at EMNLP 2022 in Abu Dhabi. We have around 30 people joining (in-person and online). Thanks for coming!
 - 📔 There was a comprehensive tutorial about code-mixing by Microsoft Research (Monojit Choudhury, Kalika Bali, Anirudh Srinivasan, and Sandipan Dandapat) at EMNLP 2019, you can check the following <a href="https://genius1237.github.io/emnlp19_tut/">link</a>.
 
@@ -50,7 +82,7 @@ This is the list of the code-switching workshop series:
 - <b>Thamar Solorio and Yang Liu. (2008)</b> <i>Learning to Predict Code-Switching Points</i>. EMNLP <a href="http://www.aclweb.org/anthology/D08-1102">[Paper]</a>
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
-## Corpus
+### Corpus
 - <b>Whitehouse, et al. (2022)</b> <i>EntityCS: Improving Zero-Shot Cross-lingual Transfer with Entity-Centric Code Switching</i>. EMNLP <a href="https://arxiv.org/pdf/2210.12540.pdf">[Paper]</a> <a href="https://github.com/huawei-noah/noah-research/tree/master/NLP">[Code]</a>
 - <b>Lovenia, et al. (2022)</b> <i>ASCEND: A Spontaneous Chinese-English Dataset for Code-switching in Multi-turn Conversation</i>. LREC <a href="https://arxiv.org/pdf/2112.06223.pdf">[Paper]</a> <a href="https://huggingface.co/datasets/CAiRE/ASCEND">[Dataset]</a>
 - <b>Nguyen, et al. (2020)</b> <i>CanVEC-the Canberra Vietnamese-English Code-switching Natural Speech Corpus</i>. LREC <a href="https://aclanthology.org/2020.lrec-1.507.pdf">[Paper]</a>
@@ -65,7 +97,7 @@ This is the list of the code-switching workshop series:
 - <b>Lyu, et al. (2010)</b> <i>An Analysis of a Mandarin-English Code-switching Speech Corpus: SEAME</i>. Age <a href="https://www.researchgate.net/profile/Tien_Ping_Tan/publication/266890986_An_Analysis_of_a_Mandarin-English_Code-switching_Speech_Corpus_SEAME/links/54cb12f80cf2517b7560ffbb.pdf">[Paper]</a>
 
 
-## Language Modeling and Speech Recognition
+### Language Modeling and Speech Recognition
 - <b>Tolúlopé, et al. (2023)</b> <i>Multilingual self-supervised speech representations improve the speech recognition of low-resource African languages with codeswitching</i>. Sixth Workshop on Computational Approaches to Linguistic Code-Switching. <a href="https://openreview.net/forum?id=mtrmzEoSRk">[Paper]</a>
 - <b>Kumar, et al. (2020)</b> <i>Machine Learning based Language Modelling of Code Switched Data</i>. International Conference on Electronics and Sustainable Communication Systems (ICESC) <a href="https://ieeexplore.ieee.org/abstract/document/9155695">[Paper]</a>
 - <b>Madhumani, et al. (2020)</b> <i>Learning not to Discriminate: Task Agnostic Learning for Improving Monolingual and Code-switched Speech Recognition</i>. Arxiv <a href="https://arxiv.org/pdf/2006.05257.pdf">[Paper]</a>
@@ -137,7 +169,7 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 - <b>Vivek Srivastava and Mayank Singh (2020)</b> <i>PHINC: A Parallel Hinglish Social Media Code-Mixed Corpus for Machine Translation</i>. W-NUT, EMNLP <a href="http://noisy-text.github.io/2020/pdf/2020.d200-1.7.pdf">[Paper]</a> <a href="https://zenodo.org/record/3605597#.X5rwWXgzZQI">[Dataset]</a>
 - <b>Thoudam Doren Singh and Thamar Solorio. (2017)</b> <i>Towards Translating Mixed-Code Comments from Social Media</i>. CICLing <a href="https://link.springer.com/chapter/10.1007/978-3-319-77116-8_34">[Paper]</a>
 
-### NLU
+### Natural Language Understanding
 - <b>Krishnan, et al. (2021)</b> <i>Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling</i>. MRL, EMNLP <a href="https://aclanthology.org/2021.mrl-1.18.pdf">[Paper]</a>
 
 ### Named Entity Recognition
@@ -217,6 +249,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 
 ### Position Paper
 - <b>Nguyen, et al. (2022)</b> <i>Building Educational Technologies for Code-Switching: Current Practices, Difficulties and Future Directions</i>. Languages <a href="https://www.mdpi.com/2226-471X/7/3/220/pdf?version=1660898944">[Paper]</a>
+
 ## Books
 - <b>Caciullos and Travis (2018)</b> <i>Bilingualism in the Community</i>. Cambridge University Press
 
