@@ -9,7 +9,7 @@ The list will be updated over the time. You are welcome to send a pull request f
 - [🚀 Highlights](#-highlights)
 - [🏫 Workshops](#-workshops)
 - [📑 Research Papers](#-research-papers)
-	- [Survey Paper](#survey-paper)
+  - [Survey Paper](#survey-paper)
   - [Large Language Models](#large-language-models)
   - [Language Identification and POS Tagging](#language-identification-and-pos-tagging)
   - [Corpus](#corpus)
@@ -61,6 +61,7 @@ This is the list of the code-switching workshop series:
 - <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i>. Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
 
 ### Large Language Models
+- <b>Winata, et al. (2024)</b> <i>MINERS: Multilingual Language Models as Semantic Retrievers</i>. Arxiv <a href="https://arxiv.org/pdf/2406.07424">[Paper]</a>
 - <b>Yong, et al. (2023)</b> <i>Prompting Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages</i>. Arxiv <a href="https://arxiv.org/pdf/2303.13592.pdf">[Paper]</a>
 
 ### Language Identification and POS Tagging
@@ -166,6 +167,7 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 
 ### Machine Translation
 - <b>Gaser, et al. (2023)</b> <i>Exploring Segmentation Approaches for Neural Machine Translation of Code-Switched Egyptian Arabic-English Text</i>. EACL <a href="https://aclanthology.org/2023.eacl-main.256.pdf">[Paper]</a>
+- <b>Kuwanto, et al. (2021)</b> <i>Low-Resource Machine Translation Training Curriculum Fit for Low-Resource Languages</i>. Arxiv <a href="https://arxiv.org/pdf/2103.13272">[Paper]</a>
 - <b>Vivek Srivastava and Mayank Singh (2020)</b> <i>PHINC: A Parallel Hinglish Social Media Code-Mixed Corpus for Machine Translation</i>. W-NUT, EMNLP <a href="http://noisy-text.github.io/2020/pdf/2020.d200-1.7.pdf">[Paper]</a> <a href="https://zenodo.org/record/3605597#.X5rwWXgzZQI">[Dataset]</a>
 - <b>Thoudam Doren Singh and Thamar Solorio. (2017)</b> <i>Towards Translating Mixed-Code Comments from Social Media</i>. CICLing <a href="https://link.springer.com/chapter/10.1007/978-3-319-77116-8_34">[Paper]</a>
 
