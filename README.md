@@ -62,6 +62,8 @@ This is the list of the code-switching workshop series:
 
 ### Large Language Models
 - <b>Winata, et al. (2024)</b> <i>MINERS: Multilingual Language Models as Semantic Retrievers</i>. Arxiv <a href="https://arxiv.org/pdf/2406.07424">[Paper]</a> <a href="https://github.com/gentaiscool/miners">[Code]</a>
+- <b>Huzaifah, et al. (2024)</b> <i>Evaluating Code-Switching Translation with Large Language
+Models</i>. LREC-COLING <a href="https://aclanthology.org/2024.lrec-main.565.pdf">[Paper]</a>
 - <b>Yong, et al. (2023)</b> <i>Prompting Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages</i>. Arxiv <a href="https://arxiv.org/pdf/2303.13592.pdf">[Paper]</a>
 
 ### Language Identification and POS Tagging
