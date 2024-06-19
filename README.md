@@ -20,6 +20,7 @@ The list will be updated over the time. You are welcome to send a pull request f
   - [Metric](#metric)
   - [Representation Learning](#representation-learning)
   - [Machine Translation](#machine-translation)
+  - [Speech Translation](#speech-translation)
   - [Natural Language Understanding](#natural-language-understanding)
   - [Named Entity Recognition](#named-entity-recognition)
   - [Linguistics](#linguistics)
@@ -64,9 +65,10 @@ This is the list of the code-switching workshop series:
 - <b>Winata, et al. (2024)</b> <i>MINERS: Multilingual Language Models as Semantic Retrievers</i>. Arxiv <a href="https://arxiv.org/pdf/2406.07424">[Paper]</a> <a href="https://github.com/gentaiscool/miners">[Code]</a>
 - <b>Huzaifah, et al. (2024)</b> <i>Evaluating Code-Switching Translation with Large Language
 Models</i>. LREC-COLING <a href="https://aclanthology.org/2024.lrec-main.565.pdf">[Paper]</a>
-- <b>Yong, et al. (2023)</b> <i>Prompting Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages</i>. Arxiv <a href="https://arxiv.org/pdf/2303.13592.pdf">[Paper]</a>
+- <b>Yong, et al. (2023)</b> <i>Prompting Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages</i>. CALCS, EMNLP <a href="https://aclanthology.org/2023.calcs-1.5.pdf">[Paper]</a>
 
 ### Language Identification and POS Tagging
+- <b>Igor Sterner and Simone Teufel (2023)</b> <i>TongueSwitcher: Fine-Grained Identification of German-English Code-Switching</i>. CALCS, EMNLP <a href="https://aclanthology.org/2023.calcs-1.1.pdf">[Paper]</a>
 - <b>Ostapenko, et al. (2022)</b> <i>Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching</i>. ACL <a href="https://aclanthology.org/2022.acl-long.267.pdf">[Paper]</a>
 - <b>Nguyen, et al. (2021)</b> <i>Automatic Language Identification in Code-Switched Hindi-English Social Media Text</i>. Journal of Open Humanities Data <a href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.44/">[Paper]</a>
 - <b>Tarunesh, et al. (2021)</b> <i>From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text</i>. ACL <a href="https://aclanthology.org/2021.acl-long.245.pdf">[Paper]</a>
@@ -174,6 +176,9 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 - <b>Kuwanto, et al. (2021)</b> <i>Low-Resource Machine Translation Training Curriculum Fit for Low-Resource Languages</i>. Arxiv <a href="https://arxiv.org/pdf/2103.13272">[Paper]</a>
 - <b>Vivek Srivastava and Mayank Singh (2020)</b> <i>PHINC: A Parallel Hinglish Social Media Code-Mixed Corpus for Machine Translation</i>. W-NUT, EMNLP <a href="http://noisy-text.github.io/2020/pdf/2020.d200-1.7.pdf">[Paper]</a> <a href="https://zenodo.org/record/3605597#.X5rwWXgzZQI">[Dataset]</a>
 - <b>Thoudam Doren Singh and Thamar Solorio. (2017)</b> <i>Towards Translating Mixed-Code Comments from Social Media</i>. CICLing <a href="https://link.springer.com/chapter/10.1007/978-3-319-77116-8_34">[Paper]</a>
+
+### Speech Translation
+- <b>Alastruey, et al. (2023)</b> <i>Towards Real-World Streaming Speech Translation for Code-Switched Speech</i>. CALCS, EMNLP <a href="https://aclanthology.org/2023.calcs-1.2.pdf">[Paper]</a>
 
 ### Natural Language Understanding
 - <b>Krishnan, et al. (2021)</b> <i>Multilingual Code-Switching for Zero-Shot Cross-Lingual Intent Prediction and Slot Filling</i>. MRL, EMNLP <a href="https://aclanthology.org/2021.mrl-1.18.pdf">[Paper]</a>
