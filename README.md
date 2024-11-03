@@ -175,6 +175,7 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 - <b>Pratapa, et al. (2018)</b> <i>Word Embeddings for Code-Mixed Language Processing</i>. EMNLP <a href="http://www.aclweb.org/anthology/D18-1344">[Paper]</a>
 
 ### Machine Translation
+- <b>Pengpun, et al. (2024)</b> <i>On Creating an English-Thai Code-switched Machine Translation in Medical Domain.</i> EMNLP <a href="https://arxiv.org/abs/2410.16221">[Paper]</a>
 - <b>Gaser, et al. (2023)</b> <i>Exploring Segmentation Approaches for Neural Machine Translation of Code-Switched Egyptian Arabic-English Text</i>. EACL <a href="https://aclanthology.org/2023.eacl-main.256.pdf">[Paper]</a>
 - <b>Kuwanto, et al. (2021)</b> <i>Low-Resource Machine Translation Training Curriculum Fit for Low-Resource Languages</i>. Arxiv <a href="https://arxiv.org/pdf/2103.13272">[Paper]</a>
 - <b>Vivek Srivastava and Mayank Singh (2020)</b> <i>PHINC: A Parallel Hinglish Social Media Code-Mixed Corpus for Machine Translation</i>. W-NUT, EMNLP <a href="http://noisy-text.github.io/2020/pdf/2020.d200-1.7.pdf">[Paper]</a> <a href="https://zenodo.org/record/3605597#.X5rwWXgzZQI">[Dataset]</a>
