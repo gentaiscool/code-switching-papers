@@ -52,6 +52,7 @@ This is the list of the code-switching workshop series:
 - First Workshop on Speech Technologies for Code-switching in Multilingual Communities, Interspeech 2020 <a href="https://www.microsoft.com/en-us/research/event/workshop-on-speech-technologies-for-code-switching-2020/">[Website]</a>
 - Fifth Workshop on Computational Approaches to Linguistic Code-switching, NAACL 2021 <a href="https://code-switching.github.io/2021">[Website]</a>
 - Sixth Workshop on Computational Approaches to Linguistic Code-switching, EMNLP 2023 <a href="https://code-switching.github.io/2023">[Website]</a>
+- Seventh Workshop on Computational Approaches to Linguistic Code-switching, NAACL 2025 <a href="https://code-switching.github.io/2025">[Website (will open soon)]</a>
 
 ## 📑 Research Papers
 
