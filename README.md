@@ -38,6 +38,7 @@ The list will be updated over the time. You are welcome to send a pull request f
 - [Theses](#theses)
 
 ## 🚀 Highlights
+- We will be organizing the code-switching workshop at NAACL 2025! We will soon update the website! <a href="https://code-switching.github.io/">[Website]</a>
 - If you are new on code-switching or looking for a new research direction, we have written a comprehensive survey paper on code-switching: <b>The Decades Progress on Code-Switching Research in NLP: A Systematic Survey on Trends and Challenges</b> <a href="https://arxiv.org/pdf/2212.09660.pdf">[Paper]</a>. Feel free to read and let us know if you have any suggestions! Thanks to Alham Fikri Aji, Zheng-Xin Yong, and Thamar Solorio to make this possible 😊
 - We organized the code-switching workshop at EMNLP 2023! <a href="https://code-switching.github.io/2023">[Website]</a>
 - We (I, Marina Zhukova, and Sudipta Kar) organized a bird-of-a-feather session at EMNLP 2022 in Abu Dhabi. We have around 30 people joining (in-person and online). Thanks for coming!
@@ -70,6 +71,7 @@ Models</i>. LREC-COLING <a href="https://aclanthology.org/2024.lrec-main.565.pdf
 - <b>Yong, et al. (2023)</b> <i>Prompting Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages</i>. CALCS, EMNLP <a href="https://aclanthology.org/2023.calcs-1.5.pdf">[Paper]</a>
 
 ### Language Identification and POS Tagging
+- <b>Burchell, et al. (2024)</b> <i>Code-Switched Language Identification is Harder Than You Think</i>. EACL <a href="https://aclanthology.org/2024.eacl-long.38.pdf">[Paper]</a>
 - <b>Igor Sterner and Simone Teufel (2023)</b> <i>TongueSwitcher: Fine-Grained Identification of German-English Code-Switching</i>. CALCS, EMNLP <a href="https://aclanthology.org/2023.calcs-1.1.pdf">[Paper]</a>
 - <b>Ostapenko, et al. (2022)</b> <i>Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching</i>. ACL <a href="https://aclanthology.org/2022.acl-long.267.pdf">[Paper]</a>
 - <b>Nguyen, et al. (2021)</b> <i>Automatic Language Identification in Code-Switched Hindi-English Social Media Text</i>. Journal of Open Humanities Data <a href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.44/">[Paper]</a>
