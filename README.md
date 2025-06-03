@@ -65,6 +65,7 @@ This is the list of the code-switching workshop series:
 
 ### Large Language Models
 - <b>Winata, et al. (2024)</b> <i>MINERS: Multilingual Language Models as Semantic Retrievers</i>. EMNLP Findings <a href="https://arxiv.org/pdf/2406.07424">[Paper]</a> <a href="https://github.com/gentaiscool/miners">[Code]</a>
+- <b>Zeng, et al. (2024)</b> <i>Leveraging Large Language Models for Code-Mixed Data Augmentation in Sentiment Analysis</i>. 2nd Workshop on Social Influence in Conversations, EMNLP <a href="https://aclanthology.org/2024.sicon-1.6.pdf">[Paper]</a> <a href="https://github.com/lindazeng979/LLM-CMSA">[Code]</a>
 - <b>Yoo, et al. (2024)</b> <i>Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding</i>. Arxiv <a href="https://arxiv.org/pdf/2406.15481">[Paper]</a>
 - <b>Leon, et al., (2024)</b> <i>Code-Mixed Probes Show How Pre-Trained Models Generalise On Code-Switched Text</i>. LREC <a href="https://aclanthology.org/2024.lrec-main.307.pdf">[Paper]</a> <a href="https://github.com/francesita/code-mixed-probes">[Code]</a>
 - <b>Huzaifah, et al. (2024)</b> <i>Evaluating Code-Switching Translation with Large Language
