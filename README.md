@@ -93,6 +93,7 @@ Models</i>. LREC-COLING <a href="https://aclanthology.org/2024.lrec-main.565.pdf
 - <b>Dau-Cheng Lyu and Ren-Yuan Lyu. (2008)</b> <i>Language Identification on Code-Switching Utterances Using Multiple Cues</i>. Interspeech <a href="https://pdfs.semanticscholar.org/67b5/b05a9669202fe63cf5165a5b2286ddd1b6f2.pdf">[Paper]</a>
 
 ### Corpus
+- <b>Winata, et al. (2026)</b> <i>Can Large Language Models Understand, Reason About, and Generate Code-Switched Text?</i>. Arxiv <a href="https://arxiv.org/pdf/2601.07153">[Paper]</a> <a href="https://github.com/gentaiscool/codemixqa">[Code]</a> <a href="https://huggingface.co/datasets/gentaiscool/codemixqa">[Dataset]</a>
 - <b>Kuwanto, et al. (2024)</b> <i>Linguistics Theory Meets LLM: Code-Switched Text Generation via Equivalence Constrained Large Language Models</i>. Arxiv <a href="">[Paper]</a> <a href="https://github.com/gkuwanto/ezswitch">[Code]</a> <a href="https://huggingface.co/datasets/garrykuwanto/cspref">[Dataset]</a>
 - <b>Ruochen Zhang and Carsten Eickhoff (2024)</b> <i>CroCosum: A Benchmark Dataset for Cross-Lingual Code-switched Summarization</i>. LREC <a href="https://aclanthology.org/2024.lrec-main.367.pdf">[Paper]</a> <a href="https://github.com/RosenZhang/CroCoSum">[Dataset]</a>
 - <b>Whitehouse, et al. (2022)</b> <i>EntityCS: Improving Zero-Shot Cross-lingual Transfer with Entity-Centric Code Switching</i>. EMNLP <a href="https://arxiv.org/pdf/2210.12540.pdf">[Paper]</a> <a href="https://github.com/huawei-noah/noah-research/tree/master/NLP">[Code]</a>
