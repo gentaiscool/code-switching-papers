@@ -64,6 +64,7 @@ This is the list of the code-switching workshop series:
 - <b>Sitaram, et al. (2019)</b> <i>A Survey of Code-switched Speech and Language Processing</i>. Arxiv <a href="https://arxiv.org/pdf/1904.00784.pdf">[Paper]</a>
 
 ### Large Language Models
+- <b>Igor Sterner and Simone Teufel (2025)</b> <i>Minimal Pair-Based Evaluation of Code-Switching</i>. ACL <a href="https://aclanthology.org/2025.acl-long.910.pdf">[Paper]</a> <a href="https://github.com/igorsterner/acs">[Code]</a>
 - <b>Winata, et al. (2024)</b> <i>MINERS: Multilingual Language Models as Semantic Retrievers</i>. EMNLP Findings <a href="https://arxiv.org/pdf/2406.07424">[Paper]</a> <a href="https://github.com/gentaiscool/miners">[Code]</a>
 - <b>Yoo, et al. (2024)</b> <i>Code-Switching Red-Teaming: LLM Evaluation for Safety and Multilingual Understanding</i>. Arxiv <a href="https://arxiv.org/pdf/2406.15481">[Paper]</a>
 - <b>Leon, et al., (2024)</b> <i>Code-Mixed Probes Show How Pre-Trained Models Generalise On Code-Switched Text</i>. LREC <a href="https://aclanthology.org/2024.lrec-main.307.pdf">[Paper]</a> <a href="https://github.com/francesita/code-mixed-probes">[Code]</a>
@@ -72,8 +73,9 @@ Models</i>. LREC-COLING <a href="https://aclanthology.org/2024.lrec-main.565.pdf
 - <b>Yong, et al. (2023)</b> <i>Prompting Large Language Models to Generate Code-Mixed Texts: The Case of South East Asian Languages</i>. CALCS, EMNLP <a href="https://aclanthology.org/2023.calcs-1.5.pdf">[Paper]</a>
 
 ### Language Identification and POS Tagging
+- <b>Igor Sterner (2024)</b> <i>Multilingual Identification of English Code-Switching</i>. VarDial, NAACL <a href="https://aclanthology.org/2024.vardial-1.14.pdf">[Paper]</a> <a href="https://github.com/igorsterner/AnE">[Code]</a>
 - <b>Burchell, et al. (2024)</b> <i>Code-Switched Language Identification is Harder Than You Think</i>. EACL <a href="https://aclanthology.org/2024.eacl-long.38.pdf">[Paper]</a>
-- <b>Igor Sterner and Simone Teufel (2023)</b> <i>TongueSwitcher: Fine-Grained Identification of German-English Code-Switching</i>. CALCS, EMNLP <a href="https://aclanthology.org/2023.calcs-1.1.pdf">[Paper]</a>
+- <b>Igor Sterner and Simone Teufel (2023)</b> <i>TongueSwitcher: Fine-Grained Identification of German-English Code-Switching</i>. CALCS, EMNLP <a href="https://aclanthology.org/2023.calcs-1.1.pdf">[Paper]</a> <a href="https://github.com/igorsterner/TongueSwitcher">[Code]</a>
 - <b>Ostapenko, et al. (2022)</b> <i>Speaker Information Can Guide Models to Better Inductive Biases: A Case Study On Predicting Code-Switching</i>. ACL <a href="https://aclanthology.org/2022.acl-long.267.pdf">[Paper]</a>
 - <b>Nguyen, et al. (2021)</b> <i>Automatic Language Identification in Code-Switched Hindi-English Social Media Text</i>. Journal of Open Humanities Data <a href="https://openhumanitiesdata.metajnl.com/article/10.5334/johd.44/">[Paper]</a>
 - <b>Tarunesh, et al. (2021)</b> <i>From Machine Translation to Code-Switching: Generating High-Quality Code-Switched Text</i>. ACL <a href="https://aclanthology.org/2021.acl-long.245.pdf">[Paper]</a>
@@ -228,6 +230,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Sravani, et al. (2021)</b> <i>Political Discourse Analysis: A Case Study of Code Mixing and Code Switching in Political Speeches</i>. CALCS Proceedings of the 5th Workshop on Computational Approaches to Code Switching (CALCS), NAACL <a href="https://www.aclweb.org/anthology/2021.calcs-1.1.pdf">[Paper]</a>
 
 ### Syntax
+- <b>Igor Sterner and Simone Teufel (2025)</b> <i>Code-Switching and Syntax: A Large-Scale Experiment</i>. ACL Findings <a href="https://aclanthology.org/2025.findings-acl.600.pdf">[Paper]</a> <a href="https://github.com/igorsterner/csntax-gnn">[Code]</a>
 - <b>Kodali, et al. (2022)</b> <i>SyMCoM - Syntactic Measure of Code Mixing A Study Of English-Hindi Code-Mixing</i>. Findings of ACL <a href="https://aclanthology.org/2022.findings-acl.40.pdf">[Paper]</a>
 - <b>Özlem Çetinoglu and Çagrı Çöltekin (2019)</b> <i>Challenges of Annotating a Code-Switching Treebank</i>. SyntaxFest <a href="https://syntaxfest.github.io/syntaxfest19/proceedings/papers/paper_83.pdf">[Paper]</a>
 
@@ -250,6 +253,12 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Dwija Parikh and Thamar Solorio (2021)</b> <i>Normalization and Back-Transliteration for Code­Switched Data</i>. CALCS Proceedings of the 5th Workshop on Computational Approaches to Code Switching (CALCS), NAACL <a href="https://www.aclweb.org/anthology/2021.calcs-1.15.pdf">[Paper]</a>
 
 ### Toolkit
+
+#### Sentence Segmentation
+- <b>Frohmann, et al. (2024)</b> <i>Segment Any Text: A Universal Approach for Robust, Efficient and Adaptable Sentence Segmentation
+</i>. EMNLP <a href="https://aclanthology.org/2024.emnlp-main.665.pdf">[Paper]</a> <a href="https://github.com/segment-any-text/wtpsplit">[Code]</a>
+
+
 #### Synthetic Data Generation Toolkit
 - <b>Jayanthi, et al. (2021)</b> <i>CodemixedNLP: An Extensible and Open NLP Toolkit for Code-Mixing</i>. CALCS Proceedings of the 5th Workshop on Computational Approaches to Code Switching (CALCS), NAACL <a href="https://www.aclweb.org/anthology/2021.calcs-1.14.pdf">[Paper]</a> <a href="https://github.com/murali1996/CodemixedNLP">[Code]</a>
 - <b>Rizvi, et al. (2021)</b> <i>GCM: A Toolkit for Generating Synthetic Code-mixed Text</i>. EACL (System Demonstrations) <a href="https://www.aclweb.org/anthology/2021.eacl-demos.24.pdf">[Paper]</a> <a href="https://github.com/microsoft/CodeMixed-Text-Generator">[Code]</a>
