@@ -114,8 +114,13 @@ Models</i>. LREC-COLING <a href="https://aclanthology.org/2024.lrec-main.565.pdf
 
 
 ### Language Modeling and Speech Recognition
+- <b>Ugan and Waibel (2026)</b> <i>Adding Robust Code-Switching Capabilities to High Performance Multilingual ASR</i>. SLT <a href="https://arxiv.org/abs/2606.21990">[Paper]</a> <a href="https://github.com/enesyugan/robust-code-switching-asr">[Code]</a>
+- <b>Ugan, et al. (2026)</b> <i>Bayesian Low-Rank Factorization for Robust Model Adaptation</i>. ICASSP <a href="https://arxiv.org/abs/2510.18723">[Paper]</a> <a href="https://github.com/enesyugan/continual-asr">[Code]</a>
+- <b>Ugan, et al. (2025)</b> <i>Adapting Language Balance in Code-Switching Speech</i>. arXiv <a href="https://arxiv.org/abs/2510.18724">[Paper]</a>
+- <b>Ugan, et al. (2025)</b> <i>Weight Factorization and Centralization for Continual Learning in Speech Recognition</i>. Interspeech <a href="https://arxiv.org/abs/2506.16574">[Paper]</a> <a href="https://github.com/enesyugan/continual-asr">[Code]</a>
 - <b>Yu, et al. (2023)</b> <i>Code-switching text generation and injection in mandarin-english asr</i>. ICASSP <a href="https://arxiv.org/pdf/2303.10949">[Paper]</a>
 - <b>Tolúlopé, et al. (2023)</b> <i>Multilingual self-supervised speech representations improve the speech recognition of low-resource African languages with codeswitching</i>. Sixth Workshop on Computational Approaches to Linguistic Code-Switching. <a href="https://openreview.net/forum?id=mtrmzEoSRk">[Paper]</a>
+- <b>Ugan and Waibel (2022)</b> <i>Language-agnostic Code-Switching in Sequence-To-Sequence Speech Recognition</i>. Interspeech <a href="https://arxiv.org/abs/2210.08992">[Paper]</a>
 - <b>Kumar, et al. (2020)</b> <i>Machine Learning based Language Modelling of Code Switched Data</i>. International Conference on Electronics and Sustainable Communication Systems (ICESC) <a href="https://ieeexplore.ieee.org/abstract/document/9155695">[Paper]</a>
 - <b>Madhumani, et al. (2020)</b> <i>Learning not to Discriminate: Task Agnostic Learning for Improving Monolingual and Code-switched Speech Recognition</i>. Arxiv <a href="https://arxiv.org/pdf/2006.05257.pdf">[Paper]</a>
 - <b>Shah, et al. (2020)</b> <i>Learning to Recognize Code-switched Speech Without Forgetting Monolingual Speech Recognition</i>. Arxiv <a href="https://arxiv.org/pdf/2006.00782.pdf">[Paper]</a>
@@ -172,6 +177,7 @@ Models for Code-Switching Language Modeling</i>. ACL <a href="http://www.aclweb.
 - <b>Chandu, et al. (2017)</b> <i>Speech Synthesis for Mixed-Language Navigation Instructions.</i> Interspeech <a href="https://pdfs.semanticscholar.org/99f0/7e194197a55fd017657d4cd1a8d9c349de05.pdf?_ga=2.136822064.183444372.1582035562-2106241630.1557729576">[Paper]</a>
 
 ### Metric
+- <b>Ugan, et al. (2025)</b> <i>PIER: A Novel Metric for Evaluating What Matters in Code-Switching</i>. ICASSP <a href="https://arxiv.org/abs/2406.08739">[Paper]</a> <a href="https://github.com/enesyugan/PIER-CodeSwitching-Evaluation">[Code]</a>
 - <b>Guzman, et al. (2017)</b> <i>Metrics for modeling code-switching across corpora</i>. Interspeech <a href="https://pdfs.semanticscholar.org/25a5/cf5c7dc2269cf67d98b2fb46317a4d16b581.pdf">[Paper]</a>
 
 ### Representation Learning
@@ -244,6 +250,7 @@ with Embedding Attention</i>. 3rd Workshop of Computational Approaches to Lingui
 - <b>Agrawal, et al. (2017)</b> <i>Agarwal, Prabhat, et al. I may talk in English but gaali toh Hindi mein hi denge: A study of English-Hindi code-switching and swearing pattern on social networks</i>. International Conference on Communication Systems and Networks (COMSNETS) <a href="https://ieeexplore.ieee.org/abstract/document/7945452">[Paper]</a>
 
 ### Benchmark
+- <b>Ugan, et al. (2024)</b> <i>DECM: Evaluating Bilingual ASR Performance on a Code-Switching/Mixing Benchmark</i>. LREC-COLING <a href="https://aclanthology.org/2024.lrec-main.409/">[Paper]</a>
 - <b>Khanuja, et al. (2020)</b> <i>GLUECoS : An Evaluation Benchmark for Code-Switched NLP</i>. ACL <a href="https://arxiv.org/pdf/2004.12376.pdf">[Paper]</a>
 - <b>Aguilar, et al. (2020)</b> <i>LinCE: A Centralized Benchmark for Linguistic Code-switching Evaluation</i>. LREC <a href="https://www.aclweb.org/anthology/2020.lrec-1.223.pdf">[Paper]</a>
 
